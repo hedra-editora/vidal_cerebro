@@ -1,3 +1,4 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {chapter}{Agradecimentos}{9}
 \contentsfinish 
