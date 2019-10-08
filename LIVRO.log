@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  7 OCT 2019 14:24
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  8 OCT 2019 13:38
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.218 seconds
+luaotfload | main : initialization completed in 0.203 seconds
 Babel <3.15> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1859,584 +1859,587 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] [34] [35
 
 ] [36] [37] [38] [39] [40] [41] [42] [43] [44]
-[45] [46] [47] [48] [49
+[45] [46] [47] [48] [49] [50
 
-] [50] [51] [52] [53] [54] [55] [56] [57] [58
-
-] [59]
-[60] [61] [62] [63] [64] [65
-
-] [66] [67] [68] [69] [70] [71] [72] [73
-
-] [74]
-[75] [76] [77] [78] [79] [80
-
-] [81] [82] [83] [84] [85] [86] [87] [88] [89
+] [51] [52] [53] [54] [55] [56] [57] [58] [59]
+[60
 
 ]
-[90] [91
-
-] [92] [93] [94] [95] [96] [97
-
-] [98] [99] [100] [101] [102] [103
-
-]
-[104] [105] [106] [107
-
-] [108] [109] [110] [111] [112] [113] [114] [115]
-[116] [117
-
-] [118] [119
-
-] [120] [121] [122] [123] [124] [125] [126] [127
-
-]
-[128] [129] [130] [131] [132
-
-] [133] [134] [135] [136] [137]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 3003.
- [138] [139]
-[140] [141] [142] [143
-
-] [144] [145] [146] [147] [148] [149] [150] [151]
-[152] [153] [154] [155] [156
-
-] [157] [158] [159] [160] [161] [162] [163]
-[164] [165] [166] [167] [168] [169] [170
-
-] [171] [172] [173] [174] [175
-
-]
-[176] [177] [178] [179] [180
-
-] [181] [182] [183] [184] [185] [186] [187
-
-]
-[188] [189] [190] [191] [192] [193] [194
-
-] [195] [196] [197] [198] [199]
-[200]
-Underfull \hbox (badness 1142) in paragraph at lines 4375--4389
-\TU/LinuxLibertineO(0)/m/n/12 sen-ta-ti-vos. Ve-ja-mos ou-tro jus-ta-mente des-
-crito como
+Underfull \hbox (badness 10000) in paragraph at lines 1291--1291
+[]\TU/LinuxLibertineO(0)/m/n/10 1. []http://www.neu-ro-sur-gery.org/cy-ber-mu-s
+eum/pre20th/epapy-
  []
 
-[201
+[61] [62] [63] [64] [65] [66] [67] [68
 
-] [202] [203] [204] [205] [206] [207] [208] [209
+] [69] [70] [71] [72] [73] [74] [75]
+[76] [77
 
-] [210] [211] [212]
-[213] [214
+] [78] [79] [80] [81] [82] [83] [84
 
-] [215] [216] [217] [218] [219] [220] [221] [222] [223] [224]
-[225] [226
+] [85] [86] [87] [88] [89] [90]
+[91] [92] [93
 
-] [227] [228] [229] [230] [231] [232] [233] [234] [235] [236]
-[237] [238] [239] [240] [241] [242
+] [94] [95
 
-] [243] [244] [245] [246] [247] [248]
-[249] [250] [251] [252] [253] [254] [255] [256] [257] [258] [259] [260
+] [96] [97] [98] [99] [100] [101
+
+] [102] [103] [104]
+[105] [106] [107
+
+] [108] [109] [110] [111
+
+] [112] [113] [114] [115] [116]
+[117] [118] [119] [120] [121
+
+] [122] [123
+
+] [124] [125] [126] [127] [128]
+[129] [130] [131] [132
+
+] [133] [134] [135] [136] [137] [138] [139
+
+] [140]
+[141] [142] [143]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3078.
+ [144] [145] [146] [147] [148] [149
+
+] [150] [151] [152]
+[153] [154] [155] [156] [157] [158] [159] [160] [161] [162
+
+] [163] [164]
+[165] [166] [167] [168] [169] [170] [171] [172] [173] [174] [175] [176
 
 ]
-[261] [262] [263
+[177] [178] [179] [180] [181
 
-] [264] [265
+] [182] [183] [184] [185] [186] [187
 
-] [266] [267] [268] [269
+] [188]
+[189] [190] [191] [192] [193
 
-] [270] [271] [272]
-[273
+] [194] [195] [196] [197] [198] [199] [200
 
-] [274] [275] [276] [277
+]
+[201] [202] [203] [204] [205] [206] [207
 
-] [278] [279] [280] [281
+] [208]
+Underfull \hbox (badness 10000) in paragraph at lines 4516--4516
+[]\TU/LinuxLibertineO(0)/m/n/10 2. []http://neu-ro-anth-ro-po-logy.net/2008/08/
+24/the-first-phd-in-
+ []
 
-] [282] [283] [284]
-[285] [286] [287] [288] [289
+[209] [210] [211] [212] [213] [214] [215
 
-] [290] [291] [292
+] [216] [217] [218] [219] [220
 
-] [293] [294] [295] [296]
-[297] [298]
-Underfull \hbox (badness 1661) in paragraph at lines 6426--6444
+]
+[221] [222] [223]
+Underfull \hbox (badness 10000) in paragraph at lines 4819--4819
+[]\TU/LinuxLibertineO(0)/m/n/10 3. []http://www.uea.ac.uk/about/media-room/pres
+s-release-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4819--4819
+\TU/LinuxLibertineO(0)/m/n/10 archive/-/asset_publisher/a2jEGMiFHPhv/content/cr
+acking-the-
+ []
+
+[224] [225] [226] [227] [228] [229] [230] [231] [232] [233
+
+] [234] [235]
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247]
+[248
+
+] [249] [250] [251] [252] [253] [254] [255] [256] [257] [258] [259]
+[260] [261] [262] [263] [264] [265] [266
+
+] [267] [268] [269
+
+] [270] [271
+
+]
+[272] [273] [274] [275
+
+] [276] [277] [278] [279
+
+] [280] [281] [282] [283
+
+]
+Underfull \hbox (badness 6493) in paragraph at lines 6119--6119
+[]\TU/LinuxLibertineO(0)/m/n/10 1. []O \TU/LinuxLibertineO(0)/m/sc/10 
+ \TU/LinuxLibertineO(0)/m/n/10 está agora em sua quinta edi-ção (\TU/Linu
+xLibertineO(0)/m/itsc/10 \TU/LinuxLibertineO(0)/m/it/10 -5 \TU/LinuxLi
+bertineO(0)/m/n/10 2013,
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 6119--6119
+\TU/LinuxLibertineO(0)/m/n/10 <\TU/LinuxLibertineO(0)/m/it/10 http://www.dsm5.o
+rg\TU/LinuxLibertineO(0)/m/n/10 >); o \TU/LinuxLibertineO(0)/m/itsc/10 
+ \TU/LinuxLibertineO(0)/m/n/10 está na un-dé-cima edi-ção (\TU/LinuxLibe
+rtineO(0)/m/itsc/10 \TU/LinuxLibertineO(0)/m/it/10 -11\TU/LinuxLiberti
+neO(0)/m/n/10 ,
+ []
+
+[284] [285] [286] [287
+
+] [288] [289] [290] [291] [292] [293] [294] [295
+
+]
+[296] [297] [298
+
+] [299] [300] [301] [302] [303] [304]
+Underfull \hbox (badness 1661) in paragraph at lines 6558--6576
 \TU/LinuxLibertineO(0)/m/n/12 nem con-tra-di-zem ex-pli-ca-ções neu-ro-bi-o-l
 ó-gi-cas (Du-mit,
  []
 
-[299] [300] [301
+[305] [306] [307
 
-] [302] [303] [304] [305] [306] [307
+] [308] [309] [310] [311] [312] [313
 
-] [308] [309] [310]
-[311] [312] [313
+] [314] [315] [316]
+[317] [318] [319
 
-] [314] [315] [316] [317] [318] [319] [320] [321] [322]
-[323] [324
+] [320] [321] [322] [323] [324] [325] [326] [327] [328]
+[329] [330
 
-] [325] [326] [327] [328] [329] [330] [331] [332] [333] [334]
-[335
+] [331] [332] [333] [334] [335] [336] [337] [338] [339] [340]
+[341
 
-] [336] [337
+] [342] [343
 
-] [338] [339] [340] [341] [342] [343]
-Overfull \hbox (24.91556pt too wide) in paragraph at lines 7431--7451
+] [344] [345] [346] [347] [348] [349]
+Overfull \hbox (24.91556pt too wide) in paragraph at lines 7563--7583
 \TU/LinuxLibertineO(0)/m/n/12 vismo, nem to-dos os adul-tos au-tis-tas apoiam a
  neurodiversidade$[][]$.
  []
 
-[344] [345] [346] [347
+[350] [351] [352] [353
 
-] [348] [349] [350
+] [354] [355] [356
 
-] [351] [352] [353] [354] [355]
-[356] [357] [358] [359
+] [357] [358] [359] [360] [361]
+[362] [363] [364] [365
 
-] [360] [361] [362] [363] [364] [365] [366] [367]
-[368] [369] [370
+] [366] [367] [368] [369] [370] [371] [372] [373]
+[374] [375] [376
 
-] [371] [372] [373] [374] [375] [376] [377
+] [377] [378] [379] [380] [381] [382] [383
 
-] [378] [379
-
-]
-[380] [381] [382] [383
-
-] [384] [385] [386] [387] [388] [389
-
-] [390] [391]
-[392] [393] [394] [395] [396
-
-] [397] [398] [399] [400] [401] [402] [403
+] [384] [385
 
 ]
-[404] [405] [406
+[386] [387] [388] [389
 
-] [407] [408] [409] [410] [411] [412] [413] [414
+] [390] [391] [392] [393] [394] [395
 
-] [415]
-[416
+] [396] [397]
+[398] [399] [400] [401] [402
 
-] [417] [418] [419] [420] [421
-
-] [422] [423] [424] [425
-
-] [426] [427]
-[428] [429] [430] [431] [432] [433] [434] [435] [436
-
-] [437] [438] [439
+] [403] [404] [405] [406] [407] [408] [409
 
 ]
-[440] [441] [442] [443
+[410] [411] [412
 
-] [444] [445] [446] [447] [448] [449] [450] [451]
-[452] [453
+] [413] [414] [415] [416] [417] [418] [419] [420
 
-] [454] [455] [456] [457] [458] [459] [460] [461
+] [421]
+[422
+
+] [423] [424] [425] [426] [427
+
+] [428] [429] [430] [431
+
+] [432] [433]
+[434] [435] [436] [437] [438] [439] [440] [441] [442
+
+] [443] [444] [445
 
 ]
-Overfull \hbox (37.94821pt too wide) in paragraph at lines 9969--9971
-[]\TU/LinuxLibertineO(0)/m/n/12 6 -- http://www.neu-ro-sur-gery.org/cy-ber-mu-s
-eum/pre20th/epapy-
- []
+[446] [447] [448] [449
 
-[462]
-Underfull \hbox (badness 10000) in paragraph at lines 9994--9999
-\TU/LinuxLibertineO(0)/m/n/12 <\TU/LinuxLibertineO(0)/m/it/12 http://www.sen-se
--a-bouts-ci-ence.org/re-sour-ces.php/55/sense-
- []
+] [450] [451] [452] [453] [454] [455] [456] [457]
+[458] [459
 
-[463] [464] [465]
-Overfull \hbox (39.76826pt too wide) in paragraph at lines 10084--10086
-\TU/LinuxLibertineO(0)/m/n/12 release-archive/-/asset_publisher/a2jEGMiFHPhv/co
-ntent/cracking-
- []
-
-[466] [467]
-Underfull \hbox (badness 5652) in paragraph at lines 10128--10130
-[]\TU/LinuxLibertineO(0)/m/n/12 2 -- P.e., http://www.who.int/me-di-a-cen-tre/f
-actshe-
- []
-
-
-Overfull \hbox (20.39854pt too wide) in paragraph at lines 10134--10136
-[]\TU/LinuxLibertineO(0)/m/n/12 4 -- http://www.nimh.nih.gov/research-prioritie
-s/rdoc/nimh-
- []
-
-
-Underfull \hbox (badness 2261) in paragraph at lines 10151--10158
+] [460] [461] [462] [463] [464] [465] [466]
+Underfull \hbox (badness 2261) in paragraph at lines 10079--10086
 []\TU/LinuxLibertineO(0)/m/n/12 7 -- Amanda Baggs, que fala por in-ter-mé-dio 
 de
  []
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 10151--10158
+Underfull \hbox (badness 1097) in paragraph at lines 10079--10086
 \TU/LinuxLibertineO(0)/m/n/12 um sin-te-ti-za-dor de voz, se tor-nou uma das ma
 is co-
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 10151--10158
+Underfull \hbox (badness 2142) in paragraph at lines 10079--10086
 \TU/LinuxLibertineO(0)/m/n/12 nhe-ci-das ati-vis-tas au-tis-tas após di-vul-ga
 r, em ja-neiro
  []
 
-[468]
-Overfull \hbox (24.5581pt too wide) in paragraph at lines 10159--10162
+[467
+
+]
+Overfull \hbox (24.5581pt too wide) in paragraph at lines 10087--10090
 []\TU/LinuxLibertineO(0)/m/n/12 8 -- Ver <\TU/LinuxLibertineO(0)/m/it/12 http:/
 /www.neu-ro-di-ver-sity.co-mand\TU/LinuxLibertineO(0)/m/n/12 > e <\TU/LinuxLibe
 rtineO(0)/m/it/12 http://www.as-
  []
 
 
-Underfull \hbox (badness 4403) in paragraph at lines 10172--10175
+Underfull \hbox (badness 4403) in paragraph at lines 10100--10103
 []\TU/LinuxLibertineO(0)/m/n/12 11 -- http://www.naar.org/naar.asp; <\TU/LinuxL
 ibertineO(0)/m/it/12 http://web.ar-
  []
 
 
-Overfull \hbox (14.27939pt too wide) in paragraph at lines 10172--10175
+Overfull \hbox (14.27939pt too wide) in paragraph at lines 10100--10103
 \TU/LinuxLibertineO(0)/m/it/12 chive.org/web/20040927074818/http://www.cu-re-au
 -tism-now.org/\TU/LinuxLibertineO(0)/m/n/12 >.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10184--10188
+Underfull \hbox (badness 10000) in paragraph at lines 10112--10116
 \TU/LinuxLibertineO(0)/m/it/12 tism-na-tu-ral-va-ri-a-tion.blogs-pot.com.es/200
 9/03/nevertheless-
  []
 
-[469]
-Underfull \hbox (badness 10000) in paragraph at lines 10191--10195
+[468]
+Underfull \hbox (badness 10000) in paragraph at lines 10119--10123
 \TU/LinuxLibertineO(0)/m/it/12 chive.org/web/20070202083611/http://au-tis-tic-c
 ul-ture.com/\TU/LinuxLibertineO(0)/m/n/12 >
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 10196--10197
+Underfull \hbox (badness 2529) in paragraph at lines 10124--10125
 []\TU/LinuxLibertineO(0)/m/n/12 18 -- Ver <\TU/LinuxLibertineO(0)/m/it/12 http:
 //en.wi-ki-pe-dia.org/wiki/Au-tis-tic-Pri-de-
  []
 
 
-Overfull \hbox (23.10428pt too wide) in paragraph at lines 10213--10214
+Overfull \hbox (23.10428pt too wide) in paragraph at lines 10141--10142
 []\TU/LinuxLibertineO(0)/m/n/12 24 -- http://wrong-pla-net.net/fo-rums/vi-ew-to
 -pic.php?t=184314. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10215--10217
+Underfull \hbox (badness 10000) in paragraph at lines 10143--10145
 []\TU/LinuxLibertineO(0)/m/n/12 25 -- <\TU/LinuxLibertineO(0)/m/it/12 http://ww
 w.as-pi-es-for-fre-e-dom.com/ar-chive/in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10220--10222
+Underfull \hbox (badness 10000) in paragraph at lines 10148--10150
 \TU/LinuxLibertineO(0)/m/n/12 <\TU/LinuxLibertineO(0)/m/it/12 http://do-ra-ray-
 ma-ker.com/wp/change/?p=3853\TU/LinuxLibertineO(0)/m/n/12 > (ên-fase
  []
 
 
-Overfull \hbox (49.3306pt too wide) in paragraph at lines 10223--10224
+Overfull \hbox (49.3306pt too wide) in paragraph at lines 10151--10152
 []\TU/LinuxLibertineO(0)/m/n/12 28 - <\TU/LinuxLibertineO(0)/m/it/12 http://www
 .as-pi-es-for-fre-e-dom.com/showth-read.php?tid=11062\TU/LinuxLibertineO(0)/m/n
 /12 >. 
  []
 
-
-Overfull \hbox (8.03877pt too wide) in paragraph at lines 10225--10227
+[469]
+Overfull \hbox (8.03877pt too wide) in paragraph at lines 10153--10155
 []\TU/LinuxLibertineO(0)/m/n/12 29 - ``Frag-mento'' do site de Jane Meyer-ding,
  <\TU/LinuxLibertineO(0)/m/it/12 http://web.ar-
  []
 
 
-Overfull \hbox (2.45338pt too wide) in paragraph at lines 10225--10227
+Overfull \hbox (2.45338pt too wide) in paragraph at lines 10153--10155
 \TU/LinuxLibertineO(0)/m/it/12 chive.org/web/20050205082305/http://mjane.zo-law
 eb.com/snip-
  []
 
-[470]
-Overfull \hbox (3.39043pt too wide) in paragraph at lines 10228--10230
+
+Overfull \hbox (3.39043pt too wide) in paragraph at lines 10156--10158
 \TU/LinuxLibertineO(0)/m/n/12 committee-dont-reduce-the-criteria-or-an-autism-s
 pectrum-
  []
 
 
-Overfull \hbox (51.8002pt too wide) in paragraph at lines 10231--10232
+Overfull \hbox (51.8002pt too wide) in paragraph at lines 10159--10160
 []\TU/LinuxLibertineO(0)/m/n/12 31 -- <\TU/LinuxLibertineO(0)/m/it/12 http://ww
 w.as-pi-es-for-fre-e-dom.com/showth-read.php?tid=11062\TU/LinuxLibertineO(0)/m/
 n/12 >. 
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 10254--10257
+Underfull \hbox (badness 1308) in paragraph at lines 10182--10185
 []\TU/LinuxLibertineO(0)/m/n/12 2 -- ``Can ‘Neuro Lit Crit’ Save the Hu-ma-
 ni-ties?''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10254--10257
+Underfull \hbox (badness 10000) in paragraph at lines 10182--10185
 \TU/LinuxLibertineO(0)/m/it/12 bate.blogs.ny-ti-mes.com/2010/04/05/can-neuro-li
 t-crit-save-
  []
 
-[471]
-Underfull \hbox (badness 3000) in paragraph at lines 10258--10261
+[470]
+Underfull \hbox (badness 3000) in paragraph at lines 10186--10189
 []\TU/LinuxLibertineO(0)/m/n/12 3 -- Re-se-nha de \TU/LinuxLibertineO(0)/m/it/1
 2 Fran-kens-tein \TU/LinuxLibertineO(0)/m/n/12 pelo \TU/LinuxLibertineO(0)/m/it
 /12 New York Ti-
  []
 
 
-Overfull \hbox (1.24095pt too wide) in paragraph at lines 10258--10261
+Overfull \hbox (1.24095pt too wide) in paragraph at lines 10186--10189
 \TU/LinuxLibertineO(0)/m/n/12 <\TU/LinuxLibertineO(0)/m/it/12 http://www.tabula
 -rasa.info/Hor-ror/Fran-kens-tein-Fi-les.html\TU/LinuxLibertineO(0)/m/n/12 >. 
  []
 
 
-Underfull \hbox (badness 5893) in paragraph at lines 10277--10282
+Underfull \hbox (badness 5893) in paragraph at lines 10205--10210
 []\TU/LinuxLibertineO(0)/m/n/12 2 -- De-cla-ra-ção do des-ta-cado neu-ro-ci-e
 n-tista es-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10277--10282
+Underfull \hbox (badness 10000) in paragraph at lines 10205--10210
 \TU/LinuxLibertineO(0)/m/n/12 pa-nhol Ma-nuel Mar-tin-Lo-e-ches <\TU/LinuxLiber
 tineO(0)/m/it/12 http://www.ten-den-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10277--10282
+Underfull \hbox (badness 10000) in paragraph at lines 10205--10210
 \TU/LinuxLibertineO(0)/m/it/12 cias21.net/Martin-Loeches-Todo-absolutamente-tod
 o-esta-
  []
 
-[472] [473
+[471] [472
 
-] [474]
-Underfull \hbox (badness 10000) in paragraph at lines 10357--10360
+] [473] [474]
+Underfull \hbox (badness 10000) in paragraph at lines 10285--10288
 \TU/LinuxLibertineO(0)/m/it/12 oks.com/ar-ti-cles/ar-chi-ves/2011/jun/23/epi-de
 -mic-men-tal-ill-
  []
 
 [475] [476]
-Underfull \hbox (badness 2582) in paragraph at lines 10424--10427
+Underfull \hbox (badness 2582) in paragraph at lines 10352--10355
 \TU/LinuxLibertineO(0)/m/n/12 Ef-fec-ti-ve-ness of An-ti-de-pres-sants.'' \TU/L
 inuxLibertineO(0)/m/it/12 Psy-chi-a-tric Ti-mes\TU/LinuxLibertineO(0)/m/n/12 .
  []
 
 
-Overfull \hbox (22.4118pt too wide) in paragraph at lines 10424--10427
+Overfull \hbox (22.4118pt too wide) in paragraph at lines 10352--10355
 \TU/LinuxLibertineO(0)/m/n/12 <\TU/LinuxLibertineO(0)/m/it/12 http://www.psy-ch
 i-a-tric-ti-mes.com/psy-chophar-ma-co-logy/assessing-
  []
 
 [477] [478]
-Underfull \hbox (badness 1424) in paragraph at lines 10481--10484
+Underfull \hbox (badness 1424) in paragraph at lines 10409--10412
 []\TU/LinuxLibertineO(0)/m/n/12 Be-gley, Sha-ron. 2010. ``West Brain, East Brai
 n.
  []
 
 
-Underfull \hbox (badness 4441) in paragraph at lines 10481--10484
+Underfull \hbox (badness 4441) in paragraph at lines 10409--10412
 \TU/LinuxLibertineO(0)/m/n/12 What a Dif-fe-rence Cul-ture Ma-kes.'' <\TU/Linux
 LibertineO(0)/m/it/12 http://web.ar-
  []
 
 
-Overfull \hbox (125.4889pt too wide) in paragraph at lines 10481--10484
+Overfull \hbox (125.4889pt too wide) in paragraph at lines 10409--10412
 \TU/LinuxLibertineO(0)/m/it/12 chive.org/web/20120311141118/http://www.the-dail
 y-be-ast.com/newsweek/2010/02/17/west-
  []
 
 
-Overfull \hbox (124.06465pt too wide) in paragraph at lines 10496--10499
+Overfull \hbox (124.06465pt too wide) in paragraph at lines 10424--10427
 \TU/LinuxLibertineO(0)/m/it/12 mes.com/gst/full-page.html?sec=he-alth&res=9E0DE
 ED71E31F934A15751C1A9609C8B63\TU/LinuxLibertineO(0)/m/n/12 >. 
  []
 
 [479]
-Overfull \hbox (58.81429pt too wide) in paragraph at lines 10504--10509
+Overfull \hbox (58.81429pt too wide) in paragraph at lines 10432--10437
 \TU/LinuxLibertineO(0)/m/n/12 Ins-ti-tuto Pi-a-get, 2006. <\TU/LinuxLibertineO(
 0)/m/it/12 https://pt.scribd.com/doc/200978628/Fundamentos-
  []
 
 [480] [481]
-Underfull \hbox (badness 1365) in paragraph at lines 10574--10577
+Underfull \hbox (badness 1365) in paragraph at lines 10502--10505
 \TU/LinuxLibertineO(0)/m/n/12 and Its Pro-found Ef-fects.'' \TU/LinuxLibertineO
 (0)/m/it/12 New York Ti-mes \TU/LinuxLibertineO(0)/m/n/12 (6 Fe-ve-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10593--10596
+Underfull \hbox (badness 10000) in paragraph at lines 10521--10524
 \TU/LinuxLibertineO(0)/m/it/12 si-ness/autistics-freed-from-face-to-face-encoun
 ters-are-
  []
 
 [482] [483] [484] [485] [486]
-Overfull \hbox (0.12927pt too wide) in paragraph at lines 10759--10762
+Overfull \hbox (0.12927pt too wide) in paragraph at lines 10687--10690
 \TU/LinuxLibertineO(0)/m/it/12 dian.com/sci-ence/2016/jan/07/therapy-wars-reven
 ge-of-freud-
  []
 
 [487]
-Underfull \hbox (badness 1019) in paragraph at lines 10778--10781
+Underfull \hbox (badness 1019) in paragraph at lines 10706--10709
 []\TU/LinuxLibertineO(0)/m/n/12 Byatt, An-to-nia S. 2006a. ``Ob-serve the Neu-r
 o-nes.
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 10778--10781
+Underfull \hbox (badness 1127) in paragraph at lines 10706--10709
 \TU/LinuxLibertineO(0)/m/n/12 Between, Above and Be-low John Donne.'' \TU/Linux
 LibertineO(0)/m/it/12 Ti-mes Li-
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 10778--10781
+Underfull \hbox (badness 2726) in paragraph at lines 10706--10709
 \TU/LinuxLibertineO(0)/m/it/12 te-rary Sup-ple-ment \TU/LinuxLibertineO(0)/m/n/
 12 (22 Se-tem-bro). <\TU/LinuxLibertineO(0)/m/it/12 http://www.the-ti-
  []
 
 [488]
-Underfull \hbox (badness 10000) in paragraph at lines 10820--10823
+Underfull \hbox (badness 10000) in paragraph at lines 10748--10751
 \TU/LinuxLibertineO(0)/m/it/12 ti-mes.com/2005/10/18/he-alth/psy-cho-logy/can-b
 rain-scans-
  []
 
 
-Overfull \hbox (115.05334pt too wide) in paragraph at lines 10820--10823
+Overfull \hbox (115.05334pt too wide) in paragraph at lines 10748--10751
 \TU/LinuxLibertineO(0)/m/it/12 see%20-depression.html\TU/LinuxLibertineO(0)/m/n
 /12 http://www.nytimes.com/2005/10/18/health/psychology/can-
  []
 
 [489]
-Underfull \hbox (badness 3312) in paragraph at lines 10830--10833
+Underfull \hbox (badness 3312) in paragraph at lines 10758--10761
 \TU/LinuxLibertineO(0)/m/n/12 bro). <\TU/LinuxLibertineO(0)/m/it/12 http://www.
 news-ci-en-tist.com/blogs/shortsharps-ci-
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 10849--10852
+Underfull \hbox (badness 1043) in paragraph at lines 10777--10780
 []\TU/LinuxLibertineO(0)/m/sc/12 \TU/LinuxLibertineO(0)/m/n/12 . 2006.
  ``Re-trai-ning the Brain: Doc-tors Test
  []
 
 
-Overfull \hbox (20.24463pt too wide) in paragraph at lines 10849--10852
+Overfull \hbox (20.24463pt too wide) in paragraph at lines 10777--10780
 \TU/LinuxLibertineO(0)/m/itsc/12  \TU/LinuxLibertineO(0)/m/it/12 News 
 \TU/LinuxLibertineO(0)/m/n/12 (15 Ja-neiro). <\TU/LinuxLibertineO(0)/m/it/12 ht
 tp://www.cbs-news.com/news/retraining-
  []
 
 [490] [491]
-Underfull \hbox (badness 10000) in paragraph at lines 10900--10904
+Underfull \hbox (badness 10000) in paragraph at lines 10828--10832
 \TU/LinuxLibertineO(0)/m/it/12 fcass.ca/Se-ar-ch-Re-sults-News/12-06-04/a078cec
 a-a41-4d14-
  []
 
 [492] [493] [494] [495]
-Underfull \hbox (badness 1215) in paragraph at lines 11025--11028
+Underfull \hbox (badness 1215) in paragraph at lines 10953--10956
 \TU/LinuxLibertineO(0)/m/it/12 mes \TU/LinuxLibertineO(0)/m/n/12 (1 Abril). <\T
 U/LinuxLibertineO(0)/m/it/12 http://www.ny-ti-mes.com/2010/04/01/bo-
  []
 
 [496] [497] [498] [499] [500] [501]
-Overfull \hbox (62.37813pt too wide) in paragraph at lines 11238--11240
+Overfull \hbox (62.37813pt too wide) in paragraph at lines 11166--11168
 \TU/LinuxLibertineO(0)/m/n/12 Au-tis-tic Cul-ture.'' <\TU/LinuxLibertineO(0)/m/
 it/12 http://web.ar-chive.org/web/20061111053135/http://train-
  []
 
 [502] [503]
-Overfull \hbox (31.21976pt too wide) in paragraph at lines 11281--11284
+Overfull \hbox (31.21976pt too wide) in paragraph at lines 11209--11212
 \TU/LinuxLibertineO(0)/m/it/12 Ti-mes Ma-ga-zine \TU/LinuxLibertineO(0)/m/n/12 
 (2 Abril). <\TU/LinuxLibertineO(0)/m/it/12 http://www.ny-ti-mes.com/2006/04/02/
 ma-
  []
 
 [504] [505] [506] [507] [508] [509] [510] [511] [512] [513] [514]
-Underfull \hbox (badness 1082) in paragraph at lines 11662--11666
+Underfull \hbox (badness 1082) in paragraph at lines 11590--11594
 \TU/LinuxLibertineO(0)/m/n/12 Lec-ture de-li-ve-red at the Third In-ter-na-ti-o
 -nal Ara-kawa
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 11662--11666
+Underfull \hbox (badness 2961) in paragraph at lines 11590--11594
 \TU/LinuxLibertineO(0)/m/n/12 and Gins: Ar-chi-tec-ture and Phi-lo-sophy Con-fe
 -rence.
  []
 
 [515] [516] [517] [518]
-Underfull \hbox (badness 1052) in paragraph at lines 11775--11778
+Underfull \hbox (badness 1052) in paragraph at lines 11703--11706
 []\TU/LinuxLibertineO(0)/m/n/12 Gold-man, Cor-rie. 2012. ``This Is Your Brain o
 n
  []
 
 
-Overfull \hbox (20.07896pt too wide) in paragraph at lines 11775--11778
+Overfull \hbox (20.07896pt too wide) in paragraph at lines 11703--11706
 \TU/LinuxLibertineO(0)/m/it/12 ford.edu/news/2012/sep-tem-ber/austen-reading-fm
 ri-090712.html\TU/LinuxLibertineO(0)/m/n/12 >. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11779--11782
+Underfull \hbox (badness 10000) in paragraph at lines 11707--11710
 \TU/LinuxLibertineO(0)/m/n/12 <\TU/LinuxLibertineO(0)/m/it/12 http://www.ny-bo-
 oks.com/ar-ti-cles/ar-chi-ves/1990/feb/15/the-
  []
 
 [519] [520] [521] [522] [523] [524] [525] [526] [527]
-Overfull \hbox (65.31364pt too wide) in paragraph at lines 12044--12047
+Overfull \hbox (65.31364pt too wide) in paragraph at lines 11972--11975
 \TU/LinuxLibertineO(0)/m/it/12 ga-zin \TU/LinuxLibertineO(0)/m/n/12 (23 Ou-tu-b
 ro). <\TU/LinuxLibertineO(0)/m/it/12 http://web.ar-chive.org/web/20101202114243
 /http://das-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12071--12074
+Underfull \hbox (badness 10000) in paragraph at lines 11999--12002
 \TU/LinuxLibertineO(0)/m/it/12 ti-cles.la-ti-mes.com/2013/oct/10/sci-ence/la-sc
 i-einstein-brain-
  []
 
 [528] [529]
-Overfull \hbox (0.1234pt too wide) in paragraph at lines 12124--12127
+Overfull \hbox (0.1234pt too wide) in paragraph at lines 12052--12055
 \TU/LinuxLibertineO(0)/m/it/12 check/2014/03/11/much-hyped-brain-implant-treatm
 ent-for-
  []
 
 [530]
-Overfull \hbox (50.74174pt too wide) in paragraph at lines 12151--12154
+Overfull \hbox (50.74174pt too wide) in paragraph at lines 12079--12082
 \TU/LinuxLibertineO(0)/m/n/12 tism.'' \TU/LinuxLibertineO(0)/m/itsc/12 
  \TU/LinuxLibertineO(0)/m/it/12 News He-alth \TU/LinuxLibertineO(0)/m/n/12 (
 10 Agosto). <\TU/LinuxLibertineO(0)/m/it/12 http://www.bbc.co.uk/news/health-
  []
 
 
-Overfull \hbox (14.14378pt too wide) in paragraph at lines 12167--12169
+Overfull \hbox (14.14378pt too wide) in paragraph at lines 12095--12097
 []\TU/LinuxLibertineO(0)/m/n/12 Hy-man, John. 2006. ``Art and Neu-ros-ci-ence.'
 ' <\TU/LinuxLibertineO(0)/m/it/12 http://web.ar-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12167--12169
+Underfull \hbox (badness 10000) in paragraph at lines 12095--12097
 \TU/LinuxLibertineO(0)/m/it/12 chive.org/web/20070309014832/http://www.in-ter-d
 is-ci-pli-
  []
 
 [531]
-Overfull \hbox (90.82906pt too wide) in paragraph at lines 12202--12204
+Overfull \hbox (90.82906pt too wide) in paragraph at lines 12130--12132
 []\TU/LinuxLibertineO(0)/m/n/12 ---------. 2013. ``Trans-for-ming Di-ag-no-sis.
 '' <\TU/LinuxLibertineO(0)/m/it/12 http://www.nimh.nih.gov/about/di-
  []
 
 [532] [533]
-Overfull \hbox (35.62662pt too wide) in paragraph at lines 12245--12247
+Overfull \hbox (35.62662pt too wide) in paragraph at lines 12173--12175
 \TU/LinuxLibertineO(0)/m/n/12 <\TU/LinuxLibertineO(0)/m/it/12 http://www.time.c
 om/time/ma-ga-zine/ar-ti-cle/0,9171,957263,00.html\TU/LinuxLibertineO(0)/m/n/12
  >. 
  []
 
 
-Overfull \hbox (114.8298pt too wide) in paragraph at lines 12248--12251
+Overfull \hbox (114.8298pt too wide) in paragraph at lines 12176--12179
 \TU/LinuxLibertineO(0)/m/n/12 Hu-man Brain Mo-saic.'' \TU/LinuxLibertineO(0)/m/
 itsc/12 \TU/LinuxLibertineO(0)/m/it/12 . \TU/LinuxLibertineO(0)/m/n
 /12 <\TU/LinuxLibertineO(0)/m/it/12 http://www.pnas.org/cgi/doi/10.1073/pnas.15
@@ -2444,244 +2447,244 @@ itsc/12 \TU/LinuxLibertineO(0)/m/it/12 . \TU/LinuxLibertineO(0)/m/n
  []
 
 [534] [535] [536]
-Underfull \hbox (badness 10000) in paragraph at lines 12354--12357
+Underfull \hbox (badness 10000) in paragraph at lines 12282--12285
 \TU/LinuxLibertineO(0)/m/it/12 land.time.com/2013/06/28/brain-scans-could-becom
 e-ekgs-
  []
 
 [537] [538] [539] [540]
-Underfull \hbox (badness 2556) in paragraph at lines 12473--12476
+Underfull \hbox (badness 2556) in paragraph at lines 12401--12404
 []\TU/LinuxLibertineO(0)/m/n/12 Lage, An-drey. 2006. ``Au-tis-tas usam re-mé-d
 ios
  []
 
 [541] [542] [543] [544] [545] [546]
-Underfull \hbox (badness 10000) in paragraph at lines 12676--12680
+Underfull \hbox (badness 10000) in paragraph at lines 12604--12608
 \TU/LinuxLibertineO(0)/m/it/12 ner/2013/05/au-tism_spec-trum_di-ag-no-ses_the_d
 sm_5_eli-mi-
  []
 
 [547]
-Underfull \hbox (badness 10000) in paragraph at lines 12705--12708
+Underfull \hbox (badness 10000) in paragraph at lines 12633--12636
 \TU/LinuxLibertineO(0)/m/it/12 ker.com/on-line/blogs/ele-ments/2013/06/the-prob
 lem-with-
  []
 
 [548]
-Underfull \hbox (badness 10000) in paragraph at lines 12717--12721
+Underfull \hbox (badness 10000) in paragraph at lines 12645--12649
 \TU/LinuxLibertineO(0)/m/it/12 e-lich.de/Sha-red-Docs/Pres-se-mit-tei-lun-gen/U
 K/EN/2015/15-03-
  []
 
 [549]
-Overfull \hbox (3.63754pt too wide) in paragraph at lines 12745--12748
+Overfull \hbox (3.63754pt too wide) in paragraph at lines 12673--12676
 \TU/LinuxLibertineO(0)/m/n/12 Eye-Trac-king Study.'' \TU/LinuxLibertineO(0)/m/s
 c/12 \TU/LinuxLibertineO(0)/m/n/12 o\TU/LinuxLibertineO(0)/m/sc/12  
  \TU/LinuxLibertineO(0)/m/n/12 7 (5): e37285.doi:10.1371/jour-
  []
 
 [550]
-Underfull \hbox (badness 3323) in paragraph at lines 12777--12780
+Underfull \hbox (badness 3323) in paragraph at lines 12705--12708
 \TU/LinuxLibertineO(0)/m/n/12 the Brain,'' \TU/LinuxLibertineO(0)/m/it/12 The S
 ci-en-tist \TU/LinuxLibertineO(0)/m/n/12 (1 Out.). <\TU/LinuxLibertineO(0)/m/it
 /12 http://www.the-
  []
 
 
-Overfull \hbox (12.51567pt too wide) in paragraph at lines 12777--12780
+Overfull \hbox (12.51567pt too wide) in paragraph at lines 12705--12708
 \TU/LinuxLibertineO(0)/m/it/12 scientist.com/?ar-ti-cles.view/ar-ti-cleNo/44096
 /ti-tle/Sex-Differences-
  []
 
 
-Overfull \hbox (8.90775pt too wide) in paragraph at lines 12800--12804
+Overfull \hbox (8.90775pt too wide) in paragraph at lines 12728--12732
 \TU/LinuxLibertineO(0)/m/it/12 ons.org/di-vi-sion39/pu-bli-ca-ti-ons/re-view/20
 11/01/psychodynamic-
  []
 
 [551]
-Overfull \hbox (21.91112pt too wide) in paragraph at lines 12815--12817
+Overfull \hbox (21.91112pt too wide) in paragraph at lines 12743--12745
 \TU/LinuxLibertineO(0)/m/n/12 in a Post-ge-no-mic Age.'' \TU/LinuxLibertineO(0)
 /m/it/12 So-ci-o-logy\TU/LinuxLibertineO(0)/m/n/12 . doi:10.1177/00380385135019
 44. 
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 12829--12832
+Underfull \hbox (badness 1253) in paragraph at lines 12757--12760
 \TU/LinuxLibertineO(0)/m/it/12 New Yor-ker \TU/LinuxLibertineO(0)/m/n/12 (22 No
 v.). <\TU/LinuxLibertineO(0)/m/it/12 http://www.newyor-ker.com/ar-
  []
 
 [552]
-Underfull \hbox (badness 2426) in paragraph at lines 12848--12850
+Underfull \hbox (badness 2426) in paragraph at lines 12776--12778
 []\TU/LinuxLibertineO(0)/m/n/12 Meyer-ding, Jane. 1998. ``Thoughts on Fin-ding
  []
 
 
-Underfull \hbox (badness 8019) in paragraph at lines 12848--12850
+Underfull \hbox (badness 8019) in paragraph at lines 12776--12778
 \TU/LinuxLibertineO(0)/m/n/12 My-self Dif-fe-ren-tly Brai-ned.'' <\TU/LinuxLibe
 rtineO(0)/m/it/12 http://www.pla-ne-tau-
  []
 
 [553] [554] [555] [556]
-Overfull \hbox (9.34152pt too wide) in paragraph at lines 12977--12980
+Overfull \hbox (9.34152pt too wide) in paragraph at lines 12905--12908
 []\TU/LinuxLibertineO(0)/m/n/12 Northoff, Ge-org. 2013a. ``Gene, Brains, and En
 vironment---
  []
 
 [557]
-Underfull \hbox (badness 1286) in paragraph at lines 13014--13017
+Underfull \hbox (badness 1286) in paragraph at lines 12942--12945
 \TU/LinuxLibertineO(0)/m/n/12 Are: Toward a Mo-ral Neu-ro-po-li-tics.'' \TU/Lin
 uxLibertineO(0)/m/sc/12 \TU/LinuxLibertineO(0)/m/n/12 et (26 Jul.).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13014--13017
+Underfull \hbox (badness 10000) in paragraph at lines 12942--12945
 \TU/LinuxLibertineO(0)/m/n/12 <\TU/LinuxLibertineO(0)/m/it/12 https://zcomm.org
 /zne-tar-ti-cle/we-empathize-therefore-we-
  []
 
 
-Overfull \hbox (24.07198pt too wide) in paragraph at lines 13021--13026
+Overfull \hbox (24.07198pt too wide) in paragraph at lines 12949--12954
 \TU/LinuxLibertineO(0)/m/n/12 Ge-ral da Saúde, 2002. <\TU/LinuxLibertineO(0)/m
 /it/12 http://www.who.int/whr/2001/en/whr01_dj-
  []
 
 [558]
-Underfull \hbox (badness 10000) in paragraph at lines 13037--13040
+Underfull \hbox (badness 10000) in paragraph at lines 12965--12968
 \TU/LinuxLibertineO(0)/m/it/12 chive.org/web/20120203092837/http://www.tate.org
 .uk/ta-te-
  []
 
 [559] [560]
-Underfull \hbox (badness 3108) in paragraph at lines 13107--13110
+Underfull \hbox (badness 3108) in paragraph at lines 13035--13038
 []\TU/LinuxLibertineO(0)/m/n/12 Pe-der-sen, Da-vid Budtz. 2011. ``Re-vi-si-ting
  the
  []
 
 [561]
-Underfull \hbox (badness 5064) in paragraph at lines 13149--13152
+Underfull \hbox (badness 5064) in paragraph at lines 13077--13080
 []\TU/LinuxLibertineO(0)/m/n/12 Pic-kers-gill, Martyn, Paul Mar-tin, e Sa-rah C
 un-
  []
 
 [562] [563] [564]
-Overfull \hbox (43.84451pt too wide) in paragraph at lines 13259--13262
+Overfull \hbox (43.84451pt too wide) in paragraph at lines 13187--13190
 \TU/LinuxLibertineO(0)/m/it/12 cas/neuropolitics-where-campaigns-try-to-read-yo
 ur-mind.html?_r​=0\TU/LinuxLibertineO(0)/m/n/12 > 
  []
 
 [565] [566]
-Overfull \hbox (0.10118pt too wide) in paragraph at lines 13304--13307
+Overfull \hbox (0.10118pt too wide) in paragraph at lines 13232--13235
 \TU/LinuxLibertineO(0)/m/n/12 <\TU/LinuxLibertineO(0)/m/it/12 http://web.ar-chi
 ve.org/web/20100427160604/http://www.he-
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 13316--13320
+Underfull \hbox (badness 1337) in paragraph at lines 13244--13248
 []\TU/LinuxLibertineO(0)/m/n/12 Re-ga-lado, An-to-nio. 2015. ``Why Ame-rica’s
  Top
  []
 
 [567] [568] [569] [570]
-Overfull \hbox (49.21939pt too wide) in paragraph at lines 13441--13443
+Overfull \hbox (49.21939pt too wide) in paragraph at lines 13369--13371
 \TU/LinuxLibertineO(0)/m/n/12 (19 Out.). <\TU/LinuxLibertineO(0)/m/it/12 http:/
 /web.ar-chive.org/web/20110714203925/http://www.nplu-
  []
 
 [571]
-Overfull \hbox (92.6387pt too wide) in paragraph at lines 13459--13461
+Overfull \hbox (92.6387pt too wide) in paragraph at lines 13387--13389
 []\TU/LinuxLibertineO(0)/m/n/12 Ru-bin, Sue. 2005. ``Ac-cep-tance Ver-sus Cure.
 '' <\TU/LinuxLibertineO(0)/m/it/12 http://www.cnn.com/CNN/Pro-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13459--13461
+Underfull \hbox (badness 10000) in paragraph at lines 13387--13389
 \TU/LinuxLibertineO(0)/m/it/12 grams/pre-sents/shows/au-tism.world/no-te-bo-oks
 /sue/no-te-
  []
 
 [572] [573] [574]
-Overfull \hbox (53.34221pt too wide) in paragraph at lines 13557--13559
+Overfull \hbox (53.34221pt too wide) in paragraph at lines 13485--13487
 \TU/LinuxLibertineO(0)/m/n/12 Cu-res.'' <\TU/LinuxLibertineO(0)/m/it/12 http://
 www.npr.org/tem-pla-tes/story/story.php?storyId​=5488463\TU/LinuxLibertineO(0
 )/m/n/12 > 
  []
 
 [575]
-Underfull \hbox (badness 10000) in paragraph at lines 13610--13612
+Underfull \hbox (badness 10000) in paragraph at lines 13538--13540
 \TU/LinuxLibertineO(0)/m/n/12 <\TU/LinuxLibertineO(0)/m/it/12 http://au-tismmyt
 h-bus-ters.com/general-public/autistic-vs-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13610--13612
+Underfull \hbox (badness 10000) in paragraph at lines 13538--13540
 \TU/LinuxLibertineO(0)/m/it/12 people-with-autism/jim-sinclair-why-i-dislike-pe
 rson-first-
  []
 
 
-Overfull \hbox (23.86551pt too wide) in paragraph at lines 13617--13619
+Overfull \hbox (23.86551pt too wide) in paragraph at lines 13545--13547
 \TU/LinuxLibertineO(0)/m/n/12 <\TU/LinuxLibertineO(0)/m/it/12 http://ar-chive.w
 i-red.com/cul-ture/li-festyle/news/2003/10/60757?cur-
  []
 
 [576]
-Underfull \hbox (badness 10000) in paragraph at lines 13648--13651
+Underfull \hbox (badness 10000) in paragraph at lines 13576--13579
 \TU/LinuxLibertineO(0)/m/it/12 press.com/2006/09/27/a-short-bibliographic-guide
 -to-the-
  []
 
 [577] [578]
-Underfull \hbox (badness 1024) in paragraph at lines 13685--13687
+Underfull \hbox (badness 1024) in paragraph at lines 13613--13615
 \TU/LinuxLibertineO(0)/m/n/12 ve-ment.'' \TU/LinuxLibertineO(0)/m/it/12 New Yor
 k Ma-ga-zine \TU/LinuxLibertineO(0)/m/n/12 (25 Maio). <\TU/LinuxLibertineO(0)/m
 /it/12 http://ny-
  []
 
 [579] [580] [581]
-Overfull \hbox (39.53217pt too wide) in paragraph at lines 13805--13807
+Overfull \hbox (39.53217pt too wide) in paragraph at lines 13733--13735
 \TU/LinuxLibertineO(0)/m/n/12 Brain.'' <\TU/LinuxLibertineO(0)/m/it/12 http://w
 eb.ar-chive.org/web/20070221201506/http://www.belly-
  []
 
 [582] [583] [584] [585] [586]
-Underfull \hbox (badness 1490) in paragraph at lines 13952--13956
+Underfull \hbox (badness 1490) in paragraph at lines 13880--13884
 []\TU/LinuxLibertineO(0)/m/n/12 Veer, Ilya M., Christ-ian F. Beck-mann, Ma-rie-
 José
  []
 
 [587]
-Underfull \hbox (badness 1968) in paragraph at lines 13987--13990
+Underfull \hbox (badness 1968) in paragraph at lines 13915--13918
 []\TU/LinuxLibertineO(0)/m/n/12 Wald-man, Paul. 2013. ``Da-vid Bro-oks and the
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 13987--13990
+Underfull \hbox (badness 1803) in paragraph at lines 13915--13918
 \TU/LinuxLibertineO(0)/m/n/12 Jun.). <\TU/LinuxLibertineO(0)/m/it/12 http://pro
 s-pect.org/ar-ti-cle/david-brooks-and-anti-
  []
 
 
-Overfull \hbox (0.10707pt too wide) in paragraph at lines 13995--13998
+Overfull \hbox (0.10707pt too wide) in paragraph at lines 13923--13926
 \TU/LinuxLibertineO(0)/m/it/12 ton/2015/02/09/7-ways-meditation-can-actually-ch
 ange-the-
  []
 
 [588]
-Underfull \hbox (badness 1184) in paragraph at lines 14025--14027
+Underfull \hbox (badness 1184) in paragraph at lines 13953--13955
 []\TU/LinuxLibertineO(0)/m/n/12 Wein-traub, Kit. 2005. ``A Mother’s Pers-pec-
 tive.''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14025--14027
+Underfull \hbox (badness 10000) in paragraph at lines 13953--13955
 \TU/LinuxLibertineO(0)/m/n/12 <\TU/LinuxLibertineO(0)/m/it/12 http://web.ar-chi
 ve.org/web/20051216174906/http://asa-ton-
  []
 
 [589] [590] [591] [592]
-Overfull \hbox (23.09447pt too wide) in paragraph at lines 14161--14163
+Overfull \hbox (23.09447pt too wide) in paragraph at lines 14089--14091
 []\TU/LinuxLibertineO(0)/m/n/12 ---------. n.d. ``Sta-te-ment on Neu-ro-a-esthe
 -tics.'' <\TU/LinuxLibertineO(0)/m/it/12 http://www.neu-
  []
@@ -2713,16 +2716,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 24674 strings out of 494483
+ 24679 strings out of 494483
  13555554,794899 words of node,token memory allocated
- 12571377 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 14 glue, 1 penalty, 2065077 glyph, 74870 attribute,
- 197 glue_spec, 14974 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:4,2:2231,3:207,4:111,5:335,6:971,7:1286,8:111,9:316,10:25,11:5
-81
- 27548 multiletter control sequences out of 65536+600000
- 101 fonts using 21315067 bytes
- 50i,14n,69p,1369b,457s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 12570392 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 49 glue, 1 penalty, 2064786 glyph, 75085 attribute,
+ 197 glue_spec, 15017 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:6,2:2231,3:207,4:111,5:332,6:971,7:1235,8:111,9:316,10:26,11:5
+63
+ 27550 multiletter control sequences out of 65536+600000
+ 102 fonts using 21690275 bytes
+ 50i,14n,69p,1369b,456s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/share/texmf
 -dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist
 /fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/texmf-dist/font
@@ -2730,7 +2733,7 @@ s/opentype/public/libertine/LinLibertine_R.otf></home/editorial/texmf/tex/fonts/
 Formular-Regular.otf></home/editorial/texmf/tex/fonts/Formular-Bold.otf></usr/sh
 are/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (600 pages, 1472717 bytes).
+Output written on LIVRO.pdf (600 pages, 1471532 bytes).
 
 PDF statistics: 1927 PDF objects out of 2073 (max. 8388607)
  1295 compressed objects within 13 object streams
