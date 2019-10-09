@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1570552705 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1570552722
+["lualatex"] 1570566357 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1570640362
   "/etc/texmf/tex/generic/config/language.dat" 1510784374 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-bold.luc" 1556209802 145434 733ccd96bf349efdf31e0c1ee13b54f8 ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-regular.luc" 1556209802 149467 873bce6e284ab4d9ba4daedb37f25e6e ""
@@ -221,15 +221,15 @@
   "/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1510784347 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1510784348 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1516130248 1350732 045cf0d50c464bdae2d15bcdf369a573 ""
-  "INPUTS.aux" 1570552721 11126 0d5bfd7a51d9a2cc3c09045bf1e7ee0e ""
+  "INPUTS.aux" 1570566374 11000 44b55b183398d4195b19d3762cd4193b ""
   "INPUTS.tex" 1569952550 65 d28dcdf8508d9df0854558ed8e5b35bc ""
-  "LIVRO.aux" 1570552721 540 9088a23ef3a48d1cc21b2f7567e3f614 ""
+  "LIVRO.aux" 1570566374 540 9088a23ef3a48d1cc21b2f7567e3f614 ""
   "LIVRO.ind" 1570047223 0 d41d8cd98f00b204e9800998ecf8427e "makeindex LIVRO.idx"
   "LIVRO.tex" 1570047411 4284 3cafaeb1aa945c97ee7f834080449550 ""
-  "LIVRO.toc" 1570552721 4066 7fe98964165e9abe103d629e05d07b1f ""
-  "ORIGINAL.tex" 1570485312 820768 a01d48257061e849f71caf5ed03659b1 ""
+  "LIVRO.toc" 1570566374 4030 2a6707d7e07a94ad930b94edbc56dfa3 ""
+  "ORIGINAL.tex" 1570564261 819979 ed82d4e8fe3b8d97a109354d87a9c632 ""
   "PRETAS.tex" 1556570254 2473 8333aaeaa1370274f7466555a208a20e ""
-  "PUBLICIDADE.aux" 1570552721 1803 037725c6ad5e07db2a5ee185f93e7713 ""
+  "PUBLICIDADE.aux" 1570566374 1803 037725c6ad5e07db2a5ee185f93e7713 ""
   "fichatecnica.sty" 1569961493 2379 a108cd8311c948998294a6475f23c8bb ""
   "fronthedra.tex" 1569961658 4048 8aa34e19226e48c5ff7c477c6191dc6a ""
   "frontlayout.sty" 1570036448 1729 ab559e01876f7d83bbb74047cf899505 ""
@@ -239,15 +239,15 @@
   "hedraoptions.sty" 1556570254 3589 9fab769cbeabd384b5862a8cfc7f3d7e ""
   "tipografia.sty" 1556570254 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
-  "PUBLICIDADE.aux"
-  "LIVRO.pdf"
-  "LIVRO.aux"
-  "LIVRO.toc"
   "LIVRO.idx"
-  "LIVRO.log"
+  "PUBLICIDADE.aux"
   "INPUTS.aux"
-["makeindex LIVRO.idx"] 1570047223 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1570552722
-  "LIVRO.idx" 1570552707 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "LIVRO.log"
+  "LIVRO.aux"
+  "LIVRO.pdf"
+  "LIVRO.toc"
+["makeindex LIVRO.idx"] 1570047223 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1570640362
+  "LIVRO.idx" 1570566359 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
   "LIVRO.ind"
   "LIVRO.ilg"

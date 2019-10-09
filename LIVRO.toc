@@ -45,24 +45,23 @@
 \contentsline {chapter}{Mais uma vez, ``exatamente como a diabetes''}{331}
 \contentsline {chapter}{Neurodiversidade}{341}
 \contentsline {chapter}{O autismo como um fenômeno biossocial}{343}
-\contentsline {chapter}{Culturas autistas e neurodiversidade}{353}
-\contentsline {chapter}{Questões identitárias: \emph {ser} autista ou \emph {ter} autismo?}{357}
-\contentsline {chapter}{Amando e odiando o próprio cérebro}{365}
-\contentsline {chapter}{Política identitária e a ``revolução da neurociência''}{377}
-\contentsline {part}{4. Cérebros na tela e no papel}{383}
-\contentsline {chapter}{No papel: neuronarrativas e neurocrítica literária}{389}
-\contentsline {chapter}{Variedades de ficção neurológica}{395}
-\contentsline {chapter}{Narrativa neurológica}{403}
-\contentsline {chapter}{Neurorromances e solipsismo}{409}
-\contentsline {chapter}{Cerebralizando a memória?}{413}
-\contentsline {chapter}{Na tela: transplantes de cérebro e perdas de memória}{421}
-\contentsline {chapter}{Cerebralizando \emph {Frankenstein}}{423}
-\contentsline {chapter}{Partes do corpo e cabeças vivas}{427}
-\contentsline {chapter}{Transplantes de cérebro: permanecendo o mesmo ou se tornando outra pessoa?}{431}
-\contentsline {chapter}{Filmes de memória}{443}
-\contentsline {chapter}{A ``cerebralidade'' do self e da memória}{445}
-\contentsline {chapter}{Identidade pessoal e a autenticidade da memória \vspace \medskipamount }{449}
-\contentsline {chapter}{Epílogo}{459}
-\contentsline {chapter}{Notas}{467}
+\contentsline {chapter}{Culturas autistas e neurodiversidade}{355}
+\contentsline {chapter}{Questões identitárias: \emph {ser} autista ou \emph {ter} autismo?}{359}
+\contentsline {chapter}{Amando e odiando o próprio cérebro}{367}
+\contentsline {chapter}{Política identitária e a ``revolução da neurociência''}{379}
+\contentsline {part}{4. Cérebros na tela e no papel}{385}
+\contentsline {chapter}{No papel: neuronarrativas e neurocrítica literária}{393}
+\contentsline {chapter}{Variedades de ficção neurológica}{399}
+\contentsline {chapter}{Narrativa neurológica}{407}
+\contentsline {chapter}{Neurorromances e solipsismo}{413}
+\contentsline {chapter}{Cerebralizando a memória?}{417}
+\contentsline {chapter}{Na tela: transplantes de cérebro e perdas de memória}{425}
+\contentsline {chapter}{Cerebralizando \emph {Frankenstein}}{427}
+\contentsline {chapter}{Partes do corpo e cabeças vivas}{431}
+\contentsline {chapter}{Transplantes de cérebro: permanecendo o mesmo ou se tornando outra pessoa?}{435}
+\contentsline {chapter}{Filmes de memória}{447}
+\contentsline {chapter}{A ``cerebralidade'' do self e da memória}{449}
+\contentsline {chapter}{Identidade pessoal e a autenticidade da memória \vspace \medskipamount }{453}
+\contentsline {chapter}{Epílogo}{463}
 \contentsline {chapter}{Bibliografia}{473}
 \contentsfinish 
