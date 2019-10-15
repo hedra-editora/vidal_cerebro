@@ -1,6 +1,6 @@
-\documentclass[semcabeco,compontinhos,showtrims,trimframe,12pt,conselho,spreadimages]{memoir}
+\documentclass[semcabeco,compontinhos,showtrims,trimframe,11pt,conselho,spreadimages]{memoir}
 
-\usepackage[largepost]{hedraoptions} %% << %%%%%%%%%%%%%%%%
+\usepackage[16x23n-1]{hedraoptions} %% << %%%%%%%%%%%%%%%%
 \usepackage[baruch]{hedrastyles}
 \usepackage[xetex,chicagofootnotes]{tipografia}
 \usepackage[standart,sempontinhos]{toc}
@@ -14,13 +14,16 @@
 \usepackage{tabelas}
 \usepackage{versos}
 \usepackage{gitrevisioninfo}
+\usepackage{chngcntr}
 
 \newcommand{\forceindent}{\leavevmode{\parindent=1,4em\indent}}
 
 \linespread{1.15}
 
-\usepackage{endnotes}
-\renewcommand{\notesname}{Notas}
+%\usepackage{endnotes}
+%\renewcommand{\notesname}{Notas}
+
+\counterwithout{footnote}{part}
 
 \usepackage{makeidx,hedraindex}  % cria índice
 \makeindex	
@@ -28,15 +31,15 @@
 %\counterwithin*{endnote}{part}
 %\counterwithin*{endnote}{chapter}
 
-\let\latexchapter\chapter
-\makeatletter
-\renewcommand\enoteheading{%
-  \setcounter{secnumdepth}{-2}
-  \latexchapter*{\notesname\markboth{NOTAS}{}}
-  \mbox{}\par\vskip-\baselineskip
-  \let\@afterindentfalse\@afterindenttrue
-}
-\makeatother
+%\let\latexchapter\chapter
+%\makeatletter
+%\renewcommand\enoteheading{%
+%  \setcounter{secnumdepth}{-2}
+%  \latexchapter*{\notesname\markboth{NOTAS}{}}
+%  \mbox{}\par\vskip-\baselineskip
+%  \let\@afterindentfalse\@afterindenttrue
+%}
+%\makeatother
 %\usepackage{fancyhdr}
 %\pagestyle{fancy}
 %\setlength{\headheight}{9mm}
