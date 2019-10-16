@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  15 OCT 2019 18:09
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  16 OCT 2019 15:28
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.208 seconds
+luaotfload | main : initialization completed in 0.209 seconds
 Babel <3.15> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1958,7 +1958,7 @@ Package luatex.def Info: Requested size: 274.85933pt x 175.89551pt on input line
 
 ] [224]
 Underfull \hbox (badness 10000) in paragraph at lines 6485--6485
-[]\TU/LinuxLibertineO(0)/m/n/9 2. []<http://www.nimh.nih.gov/research-prioritie
+[]\TU/LinuxLibertineO(0)/m/n/9 4. []<http://www.nimh.nih.gov/research-prioritie
 s/rdoc/nimh-research-domain-criteria-
  []
 
@@ -1986,8 +1986,8 @@ s/rdoc/nimh-research-domain-criteria-
 ]
 [273] [274] [275]
 Underfull \hbox (badness 10000) in paragraph at lines 8027--8027
-[]\TU/LinuxLibertineO(0)/m/n/9 7. []``Iden-tity po-li-tics and the lan-guage co
-n-tro-versy'', <\TU/LinuxLibertineO(0)/m/it/9 http://do-ra-ray-ma-
+[]\TU/LinuxLibertineO(0)/m/n/9 27. []``Iden-tity po-li-tics and the lan-guage c
+on-tro-versy'', <\TU/LinuxLibertineO(0)/m/it/9 http://do-ra-ray-ma-
  []
 
 [276] [277] [278] [279] [280] [281
@@ -2056,15 +2056,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 24652 strings out of 494483
+ 24651 strings out of 494483
  10844439,794899 words of node,token memory allocated
- 9761626 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 87 glue, 1 penalty, 1609674 glyph, 42435 attribute,
+ 9762724 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 87 glue, 1 penalty, 1609857 glyph, 42435 attribute,
  197 glue_spec, 8487 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:5,2:682,3:160,4:78,5:378,6:325,7:1331,8:123,9:267,10:35,11:710
+   avail lists: 1:5,2:682,3:160,4:78,5:378,6:376,7:1331,8:123,9:267,10:35,11:710
 
- 27542 multiletter control sequences out of 65536+600000
- 110 fonts using 21159527 bytes
+ 27541 multiletter control sequences out of 65536+600000
+ 110 fonts using 21159655 bytes
  50i,14n,69p,1369b,442s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/share/texmf
 -dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist
@@ -2073,7 +2073,7 @@ s/opentype/public/libertine/LinLibertine_R.otf></home/editorial/texmf/tex/fonts/
 Formular-Regular.otf></home/editorial/texmf/tex/fonts/Formular-Bold.otf></usr/sh
 are/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (352 pages, 2256307 bytes).
+Output written on LIVRO.pdf (352 pages, 2256281 bytes).
 
 PDF statistics: 1155 PDF objects out of 1200 (max. 8388607)
  773 compressed objects within 8 object streams
