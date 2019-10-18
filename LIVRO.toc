@@ -63,4 +63,5 @@
 \contentsline {chapter}{A ``cerebralidade'' do self e da memória}{333}
 \contentsline {chapter}{Identidade pessoal e a autenticidade da memória \vspace \medskipamount }{337}
 \contentsline {chapter}{Epílogo}{345}
+\contentsline {chapter}{Bibliografia}{351}
 \contentsfinish 
