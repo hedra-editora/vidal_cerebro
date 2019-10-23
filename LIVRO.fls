@@ -404,9 +404,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT ./imgs/2.png
 INPUT ./imgs/2.png
 INPUT imgs/2.png
-INPUT ./imgs/qrcode.png
-INPUT ./imgs/qrcode.png
-INPUT imgs/qrcode.png
 INPUT ./LIVRO.ind
 INPUT ./LIVRO.ind
 OUTPUT LIVRO.toc
