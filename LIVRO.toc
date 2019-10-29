@@ -1,67 +1,67 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Agradecimentos}{11}
-\contentsline {chapter}{Para começar}{13}
-\contentsline {section}{Territórios percorridos}{24}
-\contentsline {section}{Um argumento triplo}{28}
-\contentsline {part}{1. Genealogia do sujeito cerebral}{33}
-\contentsline {chapter}{O que ``é'' o sujeito cerebral?}{35}
-\contentsline {chapter}{O sujeito cerebral em \emph {longue durée}}{51}
-\contentsline {chapter}{``De nada além do cérebro vêm alegrias, prazeres e tristezas''}{61}
-\contentsline {chapter}{A alma de um huroniano e o cérebro de Montesquieu}{69}
-\contentsline {chapter}{``O homem irá cada vez mais se tornar um animal cerebral''}{77}
-\contentsline {chapter}{Localização}{85}
-\contentsline {chapter}{Neuroascese: saúde para o sujeito cerebral}{93}
-\contentsline {chapter}{Exercícios para o cérebro duplo}{95}
-\contentsline {chapter}{Disciplina frenológica}{101}
-\contentsline {chapter}{Autoajuda cerebral}{107}
-\contentsline {chapter}{Neuróbica contemporânea}{111}
-\contentsline {part}{2. Disciplinas do \emph {neuro}}{121}
-\contentsline {chapter}{O neuroX: visão geral}{133}
-\contentsline {chapter}{O caso da neuroética}{139}
-\contentsline {chapter}{Do que os humanistas têm medo?}{149}
-\contentsline {chapter}{Umas palavras sobre neuroimagem}{163}
-\contentsline {chapter}{As neurodisciplinas da cultura}{177}
-\contentsline {chapter}{Neurologizando a cultura}{181}
-\contentsline {chapter}{Causas, correlações, plasticidade}{187}
-\contentsline {chapter}{Práticas investigativas}{193}
-\contentsline {chapter}{Diversidade cultural como ``neurodiversidade''}{201}
-\contentsline {chapter}{Da cultura para o cérebro}{207}
-\contentsline {chapter}{Cultura?}{215}
-\contentsline {chapter}{Variedades da pesquisa neuroestética}{221}
-\contentsline {chapter}{Beleza}{233}
-\contentsline {chapter}{Empatia}{249}
-\contentsline {part}{3. Cerebralizando o sofrimento psíquico}{267}
-\contentsline {chapter}{Os mecanismos da cerebralização}{271}
-\contentsline {chapter}{Farma"-psique}{275}
-\contentsline {chapter}{Globalização}{279}
-\contentsline {chapter}{Biomarcadores}{283}
-\contentsline {chapter}{Crise do modelo ``bio"-bio"-bio''?}{287}
-\contentsline {chapter}{Depressão}{295}
-\contentsline {chapter}{Exatamente como diabetes?}{299}
-\contentsline {chapter}{Escaneando a depressão}{307}
-\contentsline {chapter}{Uma busca de ``objetividade''}{313}
-\contentsline {chapter}{Um desejo de causalidade}{319}
-\contentsline {chapter}{Mais uma vez, ``exatamente como a diabetes''}{329}
-\contentsline {chapter}{Neurodiversidade}{339}
-\contentsline {chapter}{O autismo como um fenômeno biossocial}{341}
-\contentsline {chapter}{Culturas autistas e neurodiversidade}{351}
-\contentsline {chapter}{Questões identitárias: \emph {ser} autista ou \emph {ter} autismo?}{355}
-\contentsline {chapter}{Amando e odiando o próprio cérebro}{363}
-\contentsline {chapter}{Política identitária e a ``revolução da neurociência''}{375}
-\contentsline {part}{4. Cérebros na tela e no papel}{381}
-\contentsline {chapter}{No papel: neuronarrativas e neurocrítica literária}{389}
-\contentsline {chapter}{Variedades de ficção neurológica}{395}
-\contentsline {chapter}{Narrativa neurológica}{403}
-\contentsline {chapter}{Neurorromances e solipsismo}{409}
-\contentsline {chapter}{Cerebralizando a memória?}{413}
-\contentsline {chapter}{Na tela: transplantes de cérebro e perdas de memória}{421}
-\contentsline {chapter}{Cerebralizando \emph {Frankenstein}}{423}
-\contentsline {chapter}{Partes do corpo e cabeças vivas}{427}
-\contentsline {chapter}{Transplantes de cérebro: permanecendo o mesmo ou se tornando outra pessoa?}{431}
-\contentsline {chapter}{Filmes de memória}{443}
-\contentsline {chapter}{A ``cerebralidade'' do self e da memória}{445}
-\contentsline {chapter}{Identidade pessoal e a autenticidade da memória \vspace \medskipamount }{449}
-\contentsline {chapter}{Epílogo}{459}
-\contentsline {chapter}{Bibliografia}{469}
+\contentsline {chapter}{Para começar \vspace \medskipamount }{13}
+\contentsline {subsection}{Territórios percorridos}{20}
+\contentsline {subsection}{Um argumento triplo}{23}
+\contentsline {chapter}{1. Genealogia do sujeito cerebral}{27}
+\contentsline {section}{O que ``é'' o sujeito cerebral?}{27}
+\contentsline {section}{O sujeito cerebral em \emph {longue durée}}{37}
+\contentsline {section}{``De nada além do cérebro vêm alegrias, prazeres e tristezas''}{42}
+\contentsline {section}{A alma de um huroniano e o cérebro de Montesquieu}{46}
+\contentsline {section}{``O homem irá cada vez mais se tornar um animal cerebral''}{51}
+\contentsline {section}{Localização}{56}
+\contentsline {section}{Neuroascese: saúde para o sujeito cerebral}{61}
+\contentsline {section}{Exercícios para o cérebro duplo}{62}
+\contentsline {section}{Disciplina frenológica}{66}
+\contentsline {section}{Autoajuda cerebral}{69}
+\contentsline {section}{Neuróbica contemporânea \vspace \medskipamount }{71}
+\contentsline {chapter}{2. Disciplinas do \emph {neuro}}{79}
+\contentsline {section}{O neuroX: visão geral}{84}
+\contentsline {section}{O caso da neuroética}{87}
+\contentsline {section}{Do que os humanistas têm medo?}{94}
+\contentsline {section}{Umas palavras sobre neuroimagem}{102}
+\contentsline {section}{As neurodisciplinas da cultura}{111}
+\contentsline {section}{Neurologizando a cultura}{113}
+\contentsline {section}{Causas, correlações, plasticidade}{116}
+\contentsline {section}{Práticas investigativas}{120}
+\contentsline {section}{Diversidade cultural como ``neurodiversidade''}{124}
+\contentsline {section}{Da cultura para o cérebro}{127}
+\contentsline {section}{Cultura?}{132}
+\contentsline {section}{Variedades da pesquisa neuroestética}{135}
+\contentsline {section}{Beleza}{142}
+\contentsline {section}{Empatia \vspace \medskipamount }{152}
+\contentsline {chapter}{3. Cerebralizando o sofrimento psíquico}{163}
+\contentsline {section}{Os mecanismos da cerebralização}{163}
+\contentsline {section}{Farma"-psique}{166}
+\contentsline {section}{Globalização}{168}
+\contentsline {section}{Biomarcadores}{171}
+\contentsline {section}{Crise do modelo ``bio"-bio"-bio''?}{173}
+\contentsline {section}{Depressão}{178}
+\contentsline {section}{Exatamente como diabetes?}{179}
+\contentsline {section}{Escaneando a depressão}{184}
+\contentsline {section}{Uma busca de ``objetividade''}{187}
+\contentsline {section}{Um desejo de causalidade}{191}
+\contentsline {section}{Mais uma vez, ``exatamente como a diabetes''}{197}
+\contentsline {section}{Neurodiversidade}{204}
+\contentsline {section}{O autismo como um fenômeno biossocial}{205}
+\contentsline {section}{Culturas autistas e neurodiversidade}{212}
+\contentsline {section}{Questões identitárias: \emph {ser} autista ou \emph {ter} autismo?}{214}
+\contentsline {section}{Amando e odiando o próprio cérebro}{218}
+\contentsline {section}{Política identitária e a ``revolução da neurociência'' \vspace \medskipamount }{225}
+\contentsline {chapter}{4. Cérebros na tela e no papel}{231}
+\contentsline {section}{No papel: neuronarrativas e neurocrítica literária}{233}
+\contentsline {section}{Variedades de ficção neurológica}{237}
+\contentsline {section}{Narrativa neurológica}{241}
+\contentsline {section}{Neurorromances e solipsismo}{245}
+\contentsline {section}{Cerebralizando a memória?}{246}
+\contentsline {section}{Na tela: transplantes de cérebro e perdas de memória}{251}
+\contentsline {section}{Cerebralizando \emph {Frankenstein}}{251}
+\contentsline {section}{Partes do corpo e cabeças vivas}{254}
+\contentsline {section}{Transplantes de cérebro: permanecendo o mesmo ou se tornando outra pessoa?}{256}
+\contentsline {section}{Filmes de memória}{263}
+\contentsline {section}{A ``cerebralidade'' do self e da memória}{264}
+\contentsline {section}{Identidade pessoal e a autenticidade da memória \vspace \medskipamount }{267}
+\contentsline {chapter}{Epílogo}{275}
+\contentsline {chapter}{Bibliografia}{281}
 \contentsfinish 

@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  11 OCT 2019 14:43
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  23 OCT 2019 18:41
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,8 +34,8 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.228 seconds
-Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
+luaotfload | main : initialization completed in 0.223 seconds
+Babel <3.15> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
 ent class
@@ -66,11 +66,11 @@ Package ifluatex Info: LuaTeX detected.
 \trimtop=\skip46
 \trimedge=\skip47
 
-(/usr/share/texmf-dist/tex/latex/memoir/mem12.clo
-File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+(/usr/share/texmf-dist/tex/latex/memoir/mem11.clo
+File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 luaotfload | db : Font names database loaded from /home/editorial/.texlive/texmf
 -var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /home/editorial/.
-texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc))
+texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc))
 \binding=\skip48
 \spinemargin=\skip49
 \foremargin=\skip50
@@ -276,7 +276,7 @@ LaTeX Info: Redefining \emph on input line 7559.
 \m@m@h=\dimen142
 \m@mipn@skip=\skip165
 (load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmr
-oman10-regular.luc)
+oman9-regular.luc)
 \sidefootins=\insert195
 \sidefootadjust=\skip166
 \sidefootheight=\skip167
@@ -373,26 +373,26 @@ Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
 (./hedraoptions.sty
 
-Class memoir Warning: \marginparsep is zero or negative on input line 165.
+Class memoir Warning: \marginparsep is zero or negative on input line 176.
 
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
-Top and edge trims: 56.9055pt and 113.81102pt
-Page height and width: 597.50787pt by 369.88582pt
-Text height and width: 476pt by 284pt
-Spine and edge margins: 44.38487pt and 40.97339pt
-Upper and lower margins: 41.21399pt and 80.29388pt
-Headheight and headsep: 14.5pt and 0pt
-Footskip: 30pt
+Top and edge trims: 56.9055pt and 71.1319pt
+Page height and width: 654.41338pt by 455.24408pt
+Text height and width: 514.20023pt by 335pt
+Spine and edge margins: 59.75076pt and 59.5319pt
+Upper and lower margins: 52.07825pt and 88.1349pt
+Headheight and headsep: 28.45274pt and 0pt
+Footskip: 34.1433pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 0pt and 71.13188pt
-Sidecapsep and sidecapwidth: 7pt and 102pt
-Sidebarhsep and sidebarwidth: 7pt and 102pt
-Sidebarvsep and sidebartopsep: 14.5pt and 0pt
-Sidebarheight: 546.64995pt
-Sidefoothsep and sidefootwidth: 7pt and 102pt
-Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
+Marginparsep and marginparwidth: 0pt and 83.99034pt
+Sidecapsep and sidecapwidth: 7pt and 111pt
+Sidebarhsep and sidebarwidth: 7pt and 111pt
+Sidebarvsep and sidebartopsep: 13.6pt and 0pt
+Sidebarheight: 539.9202pt
+Sidefoothsep and sidefootwidth: 7pt and 111pt
+Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 ******************************************************
 
 ) (/home/editorial/texmf/tex/hedrastyles.sty
@@ -532,14 +532,14 @@ Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \epigraphminimallength=\skip190
 )
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2017/06/29 3.12 The Babel package
+Package: babel 2017/11/03 3.15 The Babel package
 
 (/usr/share/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2017/06/29 3.12 Babel switching mechanism
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
 )
 (/usr/share/texmf-dist/tex/generic/babel/luababel.def
 \l@dumylang=\language2
-Package babel Info: Non-standard hyphenation setup on input line 128.
+Package babel Info: Non-standard hyphenation setup on input line 112.
 \l@nohyphenation=\language3
 \l@german-x-2017-03-31=\language4
 \l@ngerman-x-2017-03-31=\language5
@@ -627,10 +627,10 @@ Package babel Info: Non-standard hyphenation setup on input line 128.
 Language: greek 2016/09/07 v1.9g Greek support for the babel system
 
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2017/06/29 3.12 Babel common definitions
+File: babel.def 2017/11/03 3.15 Babel common definitions
 
 (/usr/share/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2017/06/29 3.12 Babel switching mechanism
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
 )
 \babel@savecnt=\count148
 \U@D=\dimen171
@@ -679,30 +679,29 @@ Package babel Info: Making " an active character on input line 125.
 UTF-8 German hyphenation patterns (reformed orthography)
 (/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-de-1996.tex
 German Hyphenation Patterns (Reformed Orthography, 2006) `dehyphn-x' 2017-03-31
- (WL))))) (/usr/share/texmf-dist/tex/generic/babel-french/frenchb.ldf
-Language: frenchb 2017/07/08 v3.3b French support from the babel system
-
-(/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
-Language: french 2017/07/08 v3.3b French support from the babel system
+ (WL))))) (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2017/10/19 v3.3d French support from the babel system
 \FB@nonchar=\count155
 \FBcolonsp=\toks25
 \FBthinsp=\toks26
 \FB@spacing=\attribute5
 \FB@addDPspace=\attribute6
 \FB@addGUILspace=\attribute7
+\FB@ucsNBSP=\attribute8
 Package french.ldf Info: No need for active punctuation characters
 (french.ldf)             with this version of LuaTeX!
-(french.ldf)             reported on input line 188.
+(french.ldf)             reported on input line 189.
 \FBguillsp=\toks27
 \FBguill@level=\count156
 \FB@everypar=\toks28
 \FB@Mht=\dimen172
-LaTeX Info: Redefining \degres on input line 680.
+LaTeX Info: Redefining \degres on input line 681.
 \mc@charclass=\count157
 \mc@charfam=\count158
 \mc@charslot=\count159
 \std@mcc=\count160
 \dec@mcc=\count161
+\c@FBcaption@count=\count162
 \listindentFB=\skip191
 \descindentFB=\skip192
 \labelwidthFB=\skip193
@@ -714,17 +713,10 @@ LaTeX Info: Redefining \degres on input line 680.
 UTF-8 French hyphenation patterns
 (/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-fr.tex)
 (/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/quote/hyph-quote-fr.tex)))
-) (/usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
-Language: russianb 2017/01/12 1.3i Russian support for the Babel system
+ (/usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+Package babel Info: Default for \cyrdash is provided on input line 157.
 
-
-Package babel Warning: No Cyrillic font encoding has been loaded so far.
-(babel)                A font encoding should be declared before babel.
-(babel)                Default `EU2' encoding will be loaded  on input line 69.
-
-(/usr/share/texmf-dist/tex/latex/euenc/eu2enc.def
-File: eu2enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
-)
 (/usr/share/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-ru.tex
 UTF-8 Russian hyphenation patterns
 (/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-ru.tex)))
@@ -739,11 +731,11 @@ UTF-8 Portuguese hyphenation patterns
 (/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2017/07/07 v2.7 Micro-typographical refinements (RS)
 \MT@toks=\toks29
-\MT@count=\count162
+\MT@count=\count163
 LaTeX Info: Redefining \textls on input line 789.
 \MT@outer@kern=\dimen174
 LaTeX Info: Redefining \textmicrotypecontext on input line 1334.
-\MT@listname@count=\count163
+\MT@listname@count=\count164
 
 (/usr/share/texmf-dist/tex/latex/microtype/microtype-luatex.def
 File: microtype-luatex.def 2017/07/07 v2.7 Definitions specific to luatex (RS)
@@ -758,24 +750,25 @@ Package microtype Info: Loading configuration file microtype.cfg.
 File: microtype.cfg 2017/07/07 v2.7 microtype main configuration file (RS)
 ))
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2017/07/19 L3 programming layer (loader) 
+Package: expl3 2017/11/14 L3 programming layer (loader) 
 
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2017/07/19 L3 programming layer (code)
+Package: expl3 2017/11/14 L3 programming layer (code)
 \ucharcat@table=\catcodetable5
-\c_max_int=\count164
-\l_tmpa_int=\count165
-\l_tmpb_int=\count166
-\g_tmpa_int=\count167
-\g_tmpb_int=\count168
-\g__intarray_font_int=\count169
-\g__prg_map_int=\count170
-\c_log_iow=\count171
-\l_iow_line_count_int=\count172
-\l__iow_line_target_int=\count173
-\l__iow_one_indent_int=\count174
-\l__iow_indent_int=\count175
+\c_max_int=\count165
+\l_tmpa_int=\count166
+\l_tmpb_int=\count167
+\g_tmpa_int=\count168
+\g_tmpb_int=\count169
+\g__intarray_font_int=\count170
+\g__prg_map_int=\count171
+\c_log_iow=\count172
+\l_iow_line_count_int=\count173
+\l__iow_line_target_int=\count174
+\l__iow_one_indent_int=\count175
+\l__iow_indent_int=\count176
 \c_zero_dim=\dimen175
 \c_max_dim=\dimen176
 \l_tmpa_dim=\dimen177
@@ -794,75 +787,75 @@ Package: expl3 2017/07/19 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count176
-\c__fp_leading_shift_int=\count177
-\c__fp_middle_shift_int=\count178
-\c__fp_trailing_shift_int=\count179
-\c__fp_big_leading_shift_int=\count180
-\c__fp_big_middle_shift_int=\count181
-\c__fp_big_trailing_shift_int=\count182
-\c__fp_Bigg_leading_shift_int=\count183
-\c__fp_Bigg_middle_shift_int=\count184
-\c__fp_Bigg_trailing_shift_int=\count185
-\c__fp_rand_size_int=\count186
-\c__fp_rand_four_int=\count187
-\c__fp_rand_eight_int=\count188
-\l__sort_length_int=\count189
-\l__sort_min_int=\count190
-\l__sort_top_int=\count191
-\l__sort_max_int=\count192
-\l__sort_true_max_int=\count193
-\l__sort_block_int=\count194
-\l__sort_begin_int=\count266
-\l__sort_end_int=\count267
-\l__sort_A_int=\count268
-\l__sort_B_int=\count269
-\l__sort_C_int=\count270
-\l__tl_build_start_index_int=\count271
-\l__tl_build_index_int=\count272
-\l__tl_analysis_normal_int=\count273
-\l__tl_analysis_index_int=\count274
-\l__tl_analysis_nesting_int=\count275
-\l__tl_analysis_type_int=\count276
-\l__regex_internal_a_int=\count277
-\l__regex_internal_b_int=\count278
-\l__regex_internal_c_int=\count279
-\l__regex_balance_int=\count280
-\l__regex_group_level_int=\count281
-\l__regex_mode_int=\count282
-\c__regex_cs_in_class_mode_int=\count283
-\c__regex_cs_mode_int=\count284
-\l__regex_catcodes_int=\count285
-\l__regex_default_catcodes_int=\count286
-\c__regex_catcode_L_int=\count287
-\c__regex_catcode_O_int=\count288
-\c__regex_catcode_A_int=\count289
-\c__regex_all_catcodes_int=\count290
-\l__regex_show_lines_int=\count291
-\l__regex_min_state_int=\count292
-\l__regex_max_state_int=\count293
-\l__regex_left_state_int=\count294
-\l__regex_right_state_int=\count295
-\l__regex_capturing_group_int=\count296
-\l__regex_min_pos_int=\count297
-\l__regex_max_pos_int=\count298
-\l__regex_curr_pos_int=\count299
-\l__regex_start_pos_int=\count300
-\l__regex_success_pos_int=\count301
-\l__regex_curr_char_int=\count302
-\l__regex_curr_catcode_int=\count303
-\l__regex_last_char_int=\count304
-\l__regex_case_changed_char_int=\count305
-\l__regex_curr_state_int=\count306
-\l__regex_step_int=\count307
-\l__regex_min_active_int=\count308
-\l__regex_max_active_int=\count309
-\l__regex_replacement_csnames_int=\count310
-\l__regex_match_count_int=\count311
-\l__regex_min_submatch_int=\count312
-\l__regex_submatch_int=\count313
-\l__regex_zeroth_submatch_int=\count314
-\g__debug_trace_regex_int=\count315
+\l_keys_choice_int=\count177
+\c__fp_leading_shift_int=\count178
+\c__fp_middle_shift_int=\count179
+\c__fp_trailing_shift_int=\count180
+\c__fp_big_leading_shift_int=\count181
+\c__fp_big_middle_shift_int=\count182
+\c__fp_big_trailing_shift_int=\count183
+\c__fp_Bigg_leading_shift_int=\count184
+\c__fp_Bigg_middle_shift_int=\count185
+\c__fp_Bigg_trailing_shift_int=\count186
+\c__fp_rand_size_int=\count187
+\c__fp_rand_four_int=\count188
+\c__fp_rand_eight_int=\count189
+\l__sort_length_int=\count190
+\l__sort_min_int=\count191
+\l__sort_top_int=\count192
+\l__sort_max_int=\count193
+\l__sort_true_max_int=\count194
+\l__sort_block_int=\count266
+\l__sort_begin_int=\count267
+\l__sort_end_int=\count268
+\l__sort_A_int=\count269
+\l__sort_B_int=\count270
+\l__sort_C_int=\count271
+\l__tl_build_start_index_int=\count272
+\l__tl_build_index_int=\count273
+\l__tl_analysis_normal_int=\count274
+\l__tl_analysis_index_int=\count275
+\l__tl_analysis_nesting_int=\count276
+\l__tl_analysis_type_int=\count277
+\l__regex_internal_a_int=\count278
+\l__regex_internal_b_int=\count279
+\l__regex_internal_c_int=\count280
+\l__regex_balance_int=\count281
+\l__regex_group_level_int=\count282
+\l__regex_mode_int=\count283
+\c__regex_cs_in_class_mode_int=\count284
+\c__regex_cs_mode_int=\count285
+\l__regex_catcodes_int=\count286
+\l__regex_default_catcodes_int=\count287
+\c__regex_catcode_L_int=\count288
+\c__regex_catcode_O_int=\count289
+\c__regex_catcode_A_int=\count290
+\c__regex_all_catcodes_int=\count291
+\l__regex_show_lines_int=\count292
+\l__regex_min_state_int=\count293
+\l__regex_max_state_int=\count294
+\l__regex_left_state_int=\count295
+\l__regex_right_state_int=\count296
+\l__regex_capturing_group_int=\count297
+\l__regex_min_pos_int=\count298
+\l__regex_max_pos_int=\count299
+\l__regex_curr_pos_int=\count300
+\l__regex_start_pos_int=\count301
+\l__regex_success_pos_int=\count302
+\l__regex_curr_char_int=\count303
+\l__regex_curr_catcode_int=\count304
+\l__regex_last_char_int=\count305
+\l__regex_case_changed_char_int=\count306
+\l__regex_curr_state_int=\count307
+\l__regex_step_int=\count308
+\l__regex_min_active_int=\count309
+\l__regex_max_active_int=\count310
+\l__regex_replacement_csnames_int=\count311
+\l__regex_match_count_int=\count312
+\l__regex_min_submatch_int=\count313
+\l__regex_submatch_int=\count314
+\l__regex_zeroth_submatch_int=\count315
+\g__debug_trace_regex_int=\count316
 \c_empty_box=\box35
 \l_tmpa_box=\box36
 \l_tmpb_box=\box37
@@ -906,30 +899,29 @@ Package: expl3 2017/07/19 L3 programming layer (code)
 )
 (/usr/share/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count316
+\l__driver_color_stack_int=\count317
 \l__driver_tmp_box=\box50
 ))
-(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2017/07/19 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count317
-\g__xparse_grabber_int=\count318
-\l__xparse_m_args_int=\count319
-\l__xparse_mandatory_args_int=\count320
-\l__xparse_v_nesting_int=\count321
+Package: xparse 2017/11/14 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count318
+\g__xparse_grabber_int=\count319
+\l__xparse_m_args_int=\count320
+\l__xparse_mandatory_args_int=\count321
+\l__xparse_v_nesting_int=\count322
 )
-Package: fontspec 2017/07/23 v2.6c Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2017/07/23 2.6c Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2017/11/09 2.6g Font selection for XeLaTeX and LuaLaTeX
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2017/07/23 v2.6c Font selection for XeLaTeX and LuaLaTe
+Package: fontspec-luatex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count322
-\l__fontspec_language_int=\count323
-\l__fontspec_strnum_int=\count324
-\l__fontspec_tmp_int=\count325
-\l__fontspec_em_int=\count326
-\l__fontspec_emdef_int=\count327
-\l__fontspec_strong_int=\count328
-\l__fontspec_strongdef_int=\count329
+\l__fontspec_script_int=\count323
+\l__fontspec_language_int=\count324
+\l__fontspec_strnum_int=\count325
+\l__fontspec_tmp_int=\count326
+\l__fontspec_em_int=\count327
+\l__fontspec_emdef_int=\count328
+\l__fontspec_strong_int=\count329
+\l__fontspec_strongdef_int=\count330
 \l__fontspec_tmpa_dim=\dimen267
 \l__fontspec_tmpb_dim=\dimen268
 \l__fontspec_tmpc_dim=\dimen269
@@ -941,183 +933,205 @@ Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 (/usr/share/texmf-dist/tex/latex/base/tuenc.def
 File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
-))
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \fontspec with sig. 'O{}mO{}' on line 477.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmainfont with sig. 'O{}mO{}' on line 488.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setsansfont with sig. 'O{}mO{}' on line 508.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmonofont with sig. 'O{}mO{}' on line 528.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setromanfont with sig. 'O{}mO{}' on line 548.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathrm with sig. 'O{}mO{}' on line 552.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 560.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathsf with sig. 'O{}mO{}' on line 568.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathtt with sig. 'O{}mO{}' on line 576.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 591.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontface with sig. 'mO{}mO{}' on line 608.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \defaultfontfeatures with sig. 't+om' on line 619.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \addfontfeatures with sig. 'm' on line 650.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontfeature with sig. 'mm' on line 677.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newAATfeature with sig. 'mmmm' on line 691.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newopentypefeature with sig. 'mmm' on line 705.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newICUfeature with sig. 'mmm' on line 725.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \aliasfontfeature with sig. 'mm' on line 729.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 750.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontscript with sig. 'mm' on line 783.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontlanguage with sig. 'mm' on line 787.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 791.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 802.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingCommand with sig. 'mO{}m' on line 3186.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingAccent with sig. 'mm' on line 3192.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingSymbol with sig. 'mm' on line 3198.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingComposite with sig. 'mmm' on line 3204.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3210.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3235.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareSymbol with sig. 'm' on line 3241.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareComposite with sig. 'mm' on line 3249.
-.................................................
+)
+LaTeX Font Info:    Try loading font information for TU+cmr on input line 105.
+LaTeX Font Info:    No file TUcmr.fd. on input line 105.
 
-(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 3434.
-LaTeX Info: Redefining \slshape on input line 3439.
-LaTeX Info: Redefining \scshape on input line 3444.
-LaTeX Info: Redefining \upshape on input line 3449.
-LaTeX Info: Redefining \em on input line 3479.
-LaTeX Info: Redefining \emph on input line 3504.
+
+LaTeX Font Warning: Font shape `TU/cmr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 105.
+
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'O{}mO{}' on line 545.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 549.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 553.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 557.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 561.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 565.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 569.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 573.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 577.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 581.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 585.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 589.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 593.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeature with sig. 'm' on line 597.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 601.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 605.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 609.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newICUfeature with sig. 'mmm' on line 613.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 617.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 621.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 625.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 629.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 633.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 637.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3366.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingAccent with sig. 'mm' on line 3372.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingSymbol with sig. 'mm' on line 3378.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingComposite with sig. 'mmm' on line 3384.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3390.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3415.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareSymbol with sig. 'm' on line 3421.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareAccent with sig. 'm' on line 3427.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareCommand with sig. 'm' on line 3433.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3440.
+.................................................
+ (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3625.
+LaTeX Info: Redefining \slshape on input line 3630.
+LaTeX Info: Redefining \scshape on input line 3635.
+LaTeX Info: Redefining \upshape on input line 3640.
+LaTeX Info: Redefining \em on input line 3670.
+LaTeX Info: Redefining \emph on input line 3695.
 (load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmr
-oman12-bold.luc)(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/gener
-ic/fonts/otl/lmroman12-italic.luc)
-LaTeX Info: Redefining \- on input line 3555.
+oman10-bold.luc)(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/gener
+ic/fonts/otl/lmroman10-italic.luc)
+LaTeX Info: Redefining \- on input line 3749.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \oldstylenums with sig. 'm' on line 3650.
+. Redefining command \oldstylenums with sig. 'm' on line 3844.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \liningnums with sig. 'm' on line 3654.
+. Defining command \liningnums with sig. 'm' on line 3848.
 .................................................
 )) (/usr/share/texmf-dist/tex/lualatex/luatextra/luatextra.sty
 Package: luatextra 2010/10/10 v1.0 Loading usual LuaLaTeX packages
@@ -1127,7 +1141,7 @@ Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX
 
 (/usr/share/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count330
+\@catcodetablestackcnt=\count331
 )
 \CatcodeTableOther=\catcodetable6
 \CatcodeTableExpl=\catcodetable7
@@ -1180,7 +1194,7 @@ Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 luaotfload | cache : Lookup cache loaded from /home/editorial/.texlive/texmf-var
 /luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: /home/editori
 al/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc)
-\g__fontspec_family_LinuxLibertineO_int=\count331
+\g__fontspec_family_LinuxLibertineO_int=\count332
 (load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lin
 libertine-rbi.luc)(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/gen
 eric/fonts/otl/linlibertine-rb.luc)(load luc: /home/editorial/.texlive/texmf-var
@@ -1322,14 +1336,14 @@ Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 (/usr/share/texmf-dist/tex/latex/shorttoc/shorttoc.sty
 Package: shorttoc 2002/08/20 v1.3 Short table of contents (JPFD)
 )
-\c@@sectionNumCenter=\count332
+\c@@sectionNumCenter=\count333
 )
 (/home/editorial/texmf/tex/penalidades.sty)
 (/home/editorial/texmf/tex/graficos.sty
 (/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen273
 \WF@size=\dimen274
-\c@WF@wrappedlines=\count333
+\c@WF@wrappedlines=\count334
 \WF@box=\box51
 \WF@everypar=\toks33
 Package: wrapfig 2003/01/31  v 3.6
@@ -1355,7 +1369,7 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen280
 \caption@hangindent=\dimen281
 )
-\c@ContinuedFloat=\count334
+\c@ContinuedFloat=\count335
 Package caption Info: wrapfig package is loaded.
 )
 (/usr/share/texmf-dist/tex/latex/textpos/textpos.sty
@@ -1367,7 +1381,7 @@ Package: textpos 2016/06/07 1.8, absolute positioning of text on the page
 \TPVertModule=\dimen283
 \TP@margin=\dimen284
 \TP@absmargin=\dimen285
-Grid set 16 x 16 = 23.11786pt x 37.34424pt
+Grid set 16 x 16 = 28.45274pt x 40.90083pt
 \TPboxrulesize=\dimen286
 \TP@tbargs=\toks34
 \TP@prevdepth=\dimen287
@@ -1416,18 +1430,18 @@ Package color Info: Driver file: luatex.def on input line 147.
 ) (/home/editorial/texmf/tex/tabelas.sty
 (/usr/share/texmf-dist/tex/latex/xtab/xtab.sty
 Package: xtab 2011/07/31 v2.3f Extended supertabular package
-\c@tracingst=\count335
+\c@tracingst=\count336
 \PWSTcapht=\dimen288
 \ST@wd=\dimen289
 \ST@rightskip=\skip266
 \ST@leftskip=\skip267
 \ST@parfillskip=\skip268
-\c@PWSTtable=\count336
-\PWSTlastpage=\count337
-\PWSTpenultimate=\count338
-\PWSTcurpage=\count339
-\PWSTtempc=\count340
-\PWSTlines=\count341
+\c@PWSTtable=\count337
+\PWSTlastpage=\count338
+\PWSTpenultimate=\count339
+\PWSTcurpage=\count340
+\PWSTtempc=\count341
+\PWSTlines=\count342
 \PWST@lastht=\dimen290
 \PWST@generalht=\dimen291
 \PWST@ht=\dimen292
@@ -1449,7 +1463,7 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@outerparindent=\dimen303
 \enit@toks=\toks35
 \enit@inbox=\box54
-\enitdp@description=\count342
+\enitdp@description=\count343
 )
 (/usr/share/texmf-dist/tex/latex/ctable/ctable.sty
 Package: ctable 2015/10/17 v1.31 ctable package for flexible typesetting of tabl
@@ -1481,12 +1495,12 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks36
 \XKV@tempa@toks=\toks37
 )
-\XKV@depth=\count343
+\XKV@depth=\count344
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count344
+\c@r@tfl@t=\count345
 \rotFPtop=\skip270
 \rotFPbot=\skip271
 \rot@float@box=\box55
@@ -1520,30 +1534,25 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 \@CTcurftwidth=\dimen322
 ))
 (/home/editorial/texmf/tex/versos.sty) (./gitrevisioninfo.sty)
-(/home/editorial/texmf/tex/endnotes.sty
-\c@endnote=\count345
-\endnotesep=\dimen323
-\@enotes=\write5
-) (./hedraindex.sty
-(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+(./hedraindex.sty (/usr/share/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \c@tracingmulticols=\count346
 \mult@box=\box57
-\multicol@leftmargin=\dimen324
+\multicol@leftmargin=\dimen323
 \c@unbalance=\count347
 \c@collectmore=\count348
 \doublecol@number=\count349
 \multicoltolerance=\count350
 \multicolpretolerance=\count351
-\full@width=\dimen325
-\page@free=\dimen326
-\premulticols=\dimen327
-\postmulticols=\dimen328
+\full@width=\dimen324
+\page@free=\dimen325
+\premulticols=\dimen326
+\postmulticols=\dimen327
 \multicolsep=\skip272
 \multicolbaselineskip=\skip273
 \partial@page=\box58
 \last@line=\box59
-\maxbalancingoverflow=\dimen329
+\maxbalancingoverflow=\dimen328
 \mult@rightbox=\box60
 \mult@grightbox=\box61
 \mult@gfirstbox=\box62
@@ -1567,16 +1576,16 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \@tempa=\box80
 \c@columnbadness=\count352
 \c@finalcolumnbadness=\count353
-\last@try=\dimen330
-\multicolovershoot=\dimen331
-\multicolundershoot=\dimen332
+\last@try=\dimen329
+\multicolovershoot=\dimen330
+\multicolundershoot=\dimen331
 \mult@nat@firstbox=\box81
 \colbreak@box=\box82
 \mc@col@check@num=\count354
 ))
-\LIVRO@idxfile=\write6
+\LIVRO@idxfile=\write5
 
-\openout6 = LIVRO.idx
+\openout5 = LIVRO.idx
 
 Writing index file LIVRO.idx 
 luaotfload | db : Reload initiated (formats: otf,ttf,ttc); reason: "Font Formula
@@ -1628,48 +1637,41 @@ Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@partial=\box83
 \AP@footins=\box84
 )
-(/home/editorial/texmf/tex/commands.sty) (./LIVRO.aux (./INPUTS.aux)
-(./PUBLICIDADE.aux))
+(/home/editorial/texmf/tex/commands.sty) (./LIVRO.aux (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 159.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 159.
- (/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 162.
+LaTeX Font Info:    ... okay on input line 162.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 162.
+LaTeX Font Info:    ... okay on input line 162.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 162.
+LaTeX Font Info:    ... okay on input line 162.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 162.
+LaTeX Font Info:    ... okay on input line 162.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 162.
+LaTeX Font Info:    ... okay on input line 162.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 162.
+LaTeX Font Info:    ... okay on input line 162.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 162.
+LaTeX Font Info:    ... okay on input line 162.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 162.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 162.
+
+(/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for EU2/lmr/m/n on input line 159.
-LaTeX Font Info:    Try loading font information for EU2+lmr on input line 159.
-
-(/usr/share/texmf-dist/tex/latex/euenc/eu2lmr.fd
-File: eu2lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 159.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 159.
+LaTeX Font Info:    ... okay on input line 162.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 162.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 162.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Info: Redefining \dots on input line 159.
-LaTeX Info: Redefining \up on input line 159.
+LaTeX Font Info:    ... okay on input line 162.
+LaTeX Info: Redefining \dots on input line 162.
+LaTeX Info: Redefining \up on input line 162.
 Inserting `frenchb.french_punctuation' at position 1 in `kerning'.
-LaTeX Info: Redefining \microtypecontext on input line 159.
+LaTeX Info: Redefining \microtypecontext on input line 162.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1690,75 +1692,75 @@ Package microtype Info: Loading generic protrusion settings for font family
 .................................................
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 159.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 159.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 159.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 159.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 159.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 159.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 159.
-LaTeX Font Info:    Redeclaring math accent \check on input line 159.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 159.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 159.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 159.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 159.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 159.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 159.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 159.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 159.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 159.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 159.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 159.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 159.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 159.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 159.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 159.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 159.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 159.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 162.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 162.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 162.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 162.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 162.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 162.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 162.
+LaTeX Font Info:    Redeclaring math accent \check on input line 162.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 162.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 162.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 162.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 162.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 159.
+(Font)              `operators' in the math version `normal' on input line 162.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(0)/m/n on input line 
-159.
+162.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 159.
+(Font)              `operators' in the math version `bold' on input line 162.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/m/n on input line
- 159.
+ 162.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/m/n 
-on input line 159.
+on input line 162.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(0)/m/it on input lin
-e 159.
+e 162.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/bx/n on input lin
-e 159.
+e 162.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 159.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 162.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 159.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 162.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/bx/n
- on input line 159.
+ on input line 162.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/LinuxLibertineO(0)/bx/it on input l
-ine 159.
+ine 162.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 159.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 162.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 159.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 162.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count356
-\scratchdimen=\dimen333
+\scratchdimen=\dimen332
 \scratchbox=\box85
 \nofMPsegments=\count357
 \nofMParguments=\count358
 \everyMPshowfont=\toks40
 \MPscratchCnt=\count359
-\MPscratchDim=\dimen334
+\MPscratchDim=\dimen333
 \MPnumerator=\count360
 \makeMPintoPDFobject=\count361
 \everyMPtoPDFconversion=\toks41
@@ -1792,7 +1794,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 159.
+(lastpage)             ! on input line 162.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
@@ -1804,7 +1806,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 LaTeX Font Warning: Font shape `TU/Formular-Regular(0)/m/it' undefined
-(Font)              using `TU/Formular-Regular(0)/m/n' instead on input line 159
+(Font)              using `TU/Formular-Regular(0)/m/n' instead on input line 162
 .
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
@@ -1814,13 +1816,7 @@ LaTeX Font Warning: Font shape `TU/Formular-Regular(0)/m/it' undefined
 ] [3] (./PRETAS.tex)
 [4
 
-] (./LIVRO.toc
-Underfull \hbox (badness 1097) in paragraph at lines 10--10
-[]|\TU/LinuxLibertineO(0)/m/n/10.95 ``De nada além do cé-re-bro vêm ale-gria
-s, pra-ze-res e 
- []
-
-[5] [6]) [7]
+] (./LIVRO.toc [5] [6]) [7]
 \openout2 = INPUTS.aux
  (./INPUTS.tex (./ORIGINAL.tex [8
 
@@ -1828,542 +1824,244 @@ s, pra-ze-res e
 
 ] [9] [10
 
-] [11] [12]
+]
+[11] [12]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 244.
+(Font)              <10.95> on input line 245.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 244.
+(Font)              <8> on input line 245.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 244.
-
-(/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(Font)              <6> on input line 245.
+ (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 ) [13
 
-] [14] [15] [16]
-[17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31]
-[32] [33
+] [14]
+[15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26
 
-] [34] [35
-
-] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
-[47] [48] [49] [50
-
-] [51
-
-] [52] [53] [54] [55] [56] [57] [58] [59] [60
-
-] [61]
-[62] [63] [64]
-Underfull \hbox (badness 7116) in paragraph at lines 1427--1427
-[]\TU/LinuxLibertineO(0)/m/n/10 3. []Hi-pó-cra-tes, \TU/LinuxLibertineO(0)/m/i
-t/10 On the Sa-cred Di-se-ase\TU/LinuxLibertineO(0)/m/n/10 , trad. para o in-gl
-ês
+] [27] [28] [29]
+[30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1363.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1363.
+ [44]
+[45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59]
+[60] [61] [62] [63]
+Underfull \hbox (badness 1082) in paragraph at lines 2123--2127
+[]\TU/LinuxLibertineO(0)/m/n/10.95 Em seu \TU/LinuxLibertineO(0)/m/it/10.95 New
+ Methods in Edu-ca-tion\TU/LinuxLibertineO(0)/m/n/10.95 , de 1900, Ja-mes Li-be
+rty Tadd
  []
 
-
-Underfull \hbox (badness 5231) in paragraph at lines 1427--1427
-\TU/LinuxLibertineO(0)/m/n/10 de Fran-cis Adams [\TU/LinuxLibertineO(0)/m/it/10
- The Ge-nuine Works of Hip-po-cra-tes\TU/LinuxLibertineO(0)/m/n/10 , 1849],
- []
-
-[65] [66] [67] [68
-
-] [69] [70] [71] [72] [73] [74] [75] [76] [77
-
-] [78] [79]
-[80] [81] [82] [83] [84
-
-] [85] [86] [87] [88] [89] [90] [91] [92] [93
-
-] [94]
-[95
-
-] [96] [97] [98] [99] [100] [101
-
-] [102] [103] [104] [105] [106] [107
+[64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78
 
 ]
-[108] [109] [110] [111
-
-] [112] [113] [114] [115] [116] [117] [118] [119]
-[120] [121
-
-] [122] [123
-
-] [124] [125] [126] [127] [128] [129] [130] [131]
-[132
-
-] [133] [134] [135] [136] [137] [138
-
-] [139] [140] [141] [142] [143]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 3082.
-
-[144] [145] [146] [147] [148] [149
-
-] [150] [151] [152] [153] [154] [155]
-[156] [157] [158] [159] [160] [161] [162
-
-] [163] [164] [165] [166] [167]
-[168]
-<imgs/1.png, id=532, pagebox=cropbox, 1854.93pt x 1383.1675pt>
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93]
+[94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105]
+<imgs/1.png, id=336, pagebox=cropbox, 1854.93pt x 1383.1675pt>
 File: imgs/1.png Graphic file (type png)
 <use imgs/1.png>
-Package luatex.def Info: imgs/1.png  used on input line 3657. on input line 3657
+Package luatex.def Info: imgs/1.png  used on input line 3659. on input line 3659
 .
 Package luatex.def Info: Requested size: 265.236pt x 197.7788pt on input line 36
-57.
+59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3663.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3663.
- [169<./imgs/1.png>] [170] [171] [172] [173] [174] [175] [176
-
-] [177]
-[178] [179] [180] [181
-
-] [182] [183] [184] [185] [186] [187
-
-] [188] [189]
-[190] [191] [192] [193
-
-] [194] [195] [196] [197] [198] [199] [200
-
-] [201]
-[202] [203] [204] [205] [206] [207
-
-] [208] [209] [210] [211] [212] [213]
-[214] [215
-
-] [216] [217] [218] [219] [220
-
-] [221] [222] [223] [224] [225]
-[226] [227] [228] [229] [230] [231] [232] [233
-
-] [234] [235] [236] [237]
-[238] [239] [240] [241]
-<imgs/2.png, id=762, pagebox=cropbox, 704.6325pt x 451.6875pt>
+(Font)              <9> on input line 3665.
+ [106<./imgs/1.png>] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116
+] [117]
+[118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129]
+[130] [131] [132] [133] [134] [135] [136] [137] [138] [139] [140] [141]
+[142] [143] [144] [145] [146] [147]
+<imgs/2.png, id=468, pagebox=cropbox, 704.6325pt x 451.6875pt>
 File: imgs/2.png Graphic file (type png)
 <use imgs/2.png>
-Package luatex.def Info: imgs/2.png  used on input line 5252. on input line 5252
+Package luatex.def Info: imgs/2.png  used on input line 5254. on input line 5254
 .
 Package luatex.def Info: Requested size: 274.85933pt x 175.89551pt on input line
- 5252.
- [242<./imgs/2.png>] [243] [244] [245] [246] [247]
-[248
-
-] [249] [250] [251] [252] [253] [254] [255] [256] [257] [258] [259]
-[260] [261] [262] [263] [264] [265] [266
-
-] [267] [268] [269
-
-] [270] [271
+ 5254.
+ [148<./imgs/2.png>] [149] [150] [151]
+[152] [153] [154] [155] [156] [157] [158] [159] [160] [161] [162] [163
 
 ]
-[272] [273] [274] [275
-
-] [276] [277] [278] [279
-
-] [280] [281] [282] [283
-
-]
-Underfull \hbox (badness 6493) in paragraph at lines 6122--6122
-[]\TU/LinuxLibertineO(0)/m/n/10 1. []O \TU/LinuxLibertineO(0)/m/sc/10 
- \TU/LinuxLibertineO(0)/m/n/10 está agora em sua quinta edi-ção (\TU/Linu
-xLibertineO(0)/m/itsc/10 \TU/LinuxLibertineO(0)/m/it/10 -5 \TU/LinuxLi
-bertineO(0)/m/n/10 2013,
+[164] [165] [166] [167] [168] [169] [170] [171] [172] [173] [174] [175]
+[176] [177] [178] [179] [180]
+Underfull \hbox (badness 10000) in paragraph at lines 6484--6484
+[]\TU/LinuxLibertineO(0)/m/n/9 4. []<http://www.nimh.nih.gov/research-prioritie
+s/rdoc/nimh-research-domain-criteria-
  []
 
-
-Underfull \hbox (badness 1783) in paragraph at lines 6122--6122
-\TU/LinuxLibertineO(0)/m/n/10 <\TU/LinuxLibertineO(0)/m/it/10 http://www.dsm5.o
-rg\TU/LinuxLibertineO(0)/m/n/10 >); o \TU/LinuxLibertineO(0)/m/itsc/10 
- \TU/LinuxLibertineO(0)/m/n/10 está na un-dé-cima edi-ção (\TU/LinuxLibe
-rtineO(0)/m/itsc/10 \TU/LinuxLibertineO(0)/m/it/10 -11\TU/LinuxLiberti
-neO(0)/m/n/10 ,
+[181] [182] [183] [184] [185] [186] [187] [188] [189] [190] [191] [192]
+[193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203] [204]
+[205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215] [216]
+[217] [218] [219] [220]
+Underfull \hbox (badness 10000) in paragraph at lines 8026--8026
+[]\TU/LinuxLibertineO(0)/m/n/9 27. []``Iden-tity po-li-tics and the lan-guage c
+on-tro-versy'', <\TU/LinuxLibertineO(0)/m/it/9 http://do-ra-ray-ma-
  []
 
-[284] [285] [286] [287
+[221] [222] [223] [224] [225] [226] [227] [228] [229] [230
 
-] [288] [289] [290] [291] [292] [293] [294] [295
+] [231] [232]
+[233] [234] [235] [236] [237] [238] [239] [240] [241] [242] [243] [244]
+[245] [246] [247] [248] [249] [250] [251] [252] [253] [254] [255] [256]
+[257] [258] [259] [260] [261] [262] [263] [264] [265] [266] [267] [268]
+[269] [270] [271] [272] [273] [274
 
-]
-[296] [297] [298
-
-] [299] [300] [301]
-Underfull \hbox (badness 10000) in paragraph at lines 6483--6483
-[]\TU/LinuxLibertineO(0)/m/n/10 2. []<http://www.nimh.nih.gov/research-prioriti
-es/rdoc/nimh-
- []
-
-[302] [303] [304]
-Underfull \hbox (badness 1661) in paragraph at lines 6568--6586
-\TU/LinuxLibertineO(0)/m/n/12 nem con-tra-di-zem ex-pli-ca-ções neu-ro-bi-o-l
-ó-gi-cas (Du-mit,
- []
-
-[305] [306] [307
-
-] [308] [309] [310] [311] [312] [313
-
-] [314] [315] [316]
-[317] [318] [319
-
-] [320] [321] [322] [323] [324] [325] [326] [327] [328]
-[329
-
-] [330] [331] [332] [333] [334] [335] [336] [337] [338] [339
-
-] [340]
-[341
-
-] [342] [343] [344] [345] [346] [347] [348] [349] [350] [351
-
-] [352]
-[353] [354] [355
-
-] [356] [357] [358] [359] [360] [361] [362] [363
-
-] [364]
-[365]
-Underfull \hbox (badness 10000) in paragraph at lines 7989--7989
-[]\TU/LinuxLibertineO(0)/m/n/10 5. []<\TU/LinuxLibertineO(0)/m/it/10 http://www
-.as-pi-es-for-fre-e-dom.com/ar-chive/in-dex.php/thread-
- []
-
-[366] [367] [368] [369] [370] [371] [372] [373] [374] [375
-
-] [376] [377]
-[378] [379] [380] [381
-
-] [382] [383
-
-] [384] [385] [386] [387] [388
-
-] [389]
-[390] [391] [392] [393] [394] [395
-
-] [396] [397] [398] [399] [400] [401]
-[402
-
-] [403] [404] [405] [406] [407] [408] [409
-
-] [410] [411] [412
-
-] [413]
-[414] [415] [416] [417] [418] [419] [420
-
-] [421] [422
-
-] [423] [424] [425]
-[426] [427
-
-] [428] [429] [430] [431
-
-] [432] [433] [434] [435] [436] [437]
-[438] [439] [440] [441] [442
-
-] [443] [444] [445
-
-] [446] [447] [448] [449
-
-]
-[450] [451] [452] [453] [454] [455] [456] [457] [458] [459
-
-] [460] [461]
-[462] [463] [464]
-Underfull \hbox (badness 4366) in paragraph at lines 10102--10102
-[]\TU/LinuxLibertineO(0)/m/n/10 2. []De-cla-ra-ção do des-ta-cado neu-ro-ci-e
-n-tista es-pa-nhol Ma-nuel
+] [275] [276] [277] [278]
+Underfull \hbox (badness 10000) in paragraph at lines 10102--10102
+[]\TU/LinuxLibertineO(0)/m/n/9 2. []De-cla-ra-ção do des-ta-cado neu-ro-ci-en
+-tista es-pa-nhol Ma-nuel Mar-tin-Lo-e-ches
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10102--10102
-\TU/LinuxLibertineO(0)/m/n/10 Mar-tin-Lo-e-ches <\TU/LinuxLibertineO(0)/m/it/10
- http://www.ten-den-cias21.net/Martin-Loeches-Todo-
+\TU/LinuxLibertineO(0)/m/n/9 <\TU/LinuxLibertineO(0)/m/it/9 http://www.ten-den-
+cias21.net/Martin-Loeches-Todo-absolutamente-todo-esta-en-el-
  []
 
-[465] [466] [467] [468
+[279] [280] [281
 
-] [469] [470] [471] [472]
-Underfull \hbox (badness 10000) in paragraph at lines 10255--10259
-\TU/LinuxLibertineO(0)/m/n/12 <\TU/LinuxLibertineO(0)/m/it/12 http://www.psyart
--jour-nal.com/ar-ti-cle/show/ash-howis_the-
+] [282] [283]
+Overfull \hbox (20.15063pt too wide) in paragraph at lines 10326--10329
+\TU/LinuxLibertineO(0)/m/n/9 <\TU/LinuxLibertineO(0)/m/it/9 http://web.ar-chive
+.org/web/20120311141118/http://www.the-daily-be-ast.com/newsweek/2010/02/17/wes
+t-
  []
 
-
-Underfull \hbox (badness 2635) in paragraph at lines 10269--10272
-[]\TU/LinuxLibertineO(0)/m/n/12 Balt, Steve. 2014. ``As-ses-sing and Enhan-cing
- the
+[284] [285]
+Overfull \hbox (11.50781pt too wide) in paragraph at lines 10435--10437
+[]\TU/LinuxLibertineO(0)/m/n/9 Blume, Har-vey. 1997a. ``Au-tism and the In-ter-
+net, or It’s the Wi-ring, Stu-pid.'' <\TU/LinuxLibertineO(0)/m/it/9 http://we
+b.mit.edu/m-
  []
 
-
-Underfull \hbox (badness 2582) in paragraph at lines 10269--10272
-\TU/LinuxLibertineO(0)/m/n/12 Ef-fec-ti-ve-ness of An-ti-de-pres-sants.'' \TU/L
-inuxLibertineO(0)/m/it/12 Psy-chi-a-tric Ti-mes\TU/LinuxLibertineO(0)/m/n/12 .
+[286] [287] [288] [289] [290] [291] [292] [293] [294] [295]
+Overfull \hbox (9.50302pt too wide) in paragraph at lines 11083--11085
+[]\TU/LinuxLibertineO(0)/m/n/9 Dek-ker, Mar-tijn. 2006. ``On Our Own Terms: Eme
+r-ging Au-tis-tic Cul-ture.'' <\TU/LinuxLibertineO(0)/m/it/9 https://bit.ly/2p1
+Ea5r\TU/LinuxLibertineO(0)/m/n/9 >. 
  []
 
-[473] [474]
-Overfull \hbox (102.8551pt too wide) in paragraph at lines 10326--10329
-\TU/LinuxLibertineO(0)/m/n/12 rence Cul-ture Ma-kes.'' <\TU/LinuxLibertineO(0)/
-m/it/12 http://web.ar-chive.org/web/20120311141118/http://www.the-
+[296] [297] [298] [299] [300] [301] [302] [303] [304] [305] [306] [307]
+[308] [309]
+Overfull \hbox (15.8259pt too wide) in paragraph at lines 11889--11892
+[]\TU/LinuxLibertineO(0)/m/n/9 Has-ler, Fe-lix. 2009. ``Stoppt den Neu-rowahn!'
+' \TU/LinuxLibertineO(0)/m/it/9 Das Ma-ga-zin \TU/LinuxLibertineO(0)/m/n/9 (23 
+Ou-tu-bro). <\TU/LinuxLibertineO(0)/m/it/9 https://bit.ly/2MvZ7xD\TU/LinuxLiber
+tineO(0)/m/n/9 >. 
  []
 
-
-Overfull \hbox (18.43262pt too wide) in paragraph at lines 10326--10329
-\TU/LinuxLibertineO(0)/m/it/12 daily-be-ast.com/newsweek/2010/02/17/west-brain-
-ast-brain.html\TU/LinuxLibertineO(0)/m/n/12 >. 
+[310] [311]
+Overfull \hbox (20.49532pt too wide) in paragraph at lines 12047--12049
+[]\TU/LinuxLibertineO(0)/m/n/9 _____. 2013. ``Trans-for-ming Di-ag-no-sis.'' <\
+TU/LinuxLibertineO(0)/m/it/9 http://www.nimh.nih.gov/about/di-rec-tor/2013/tran
+sforming-
  []
 
-[475] [476] [477] [478]
-Underfull \hbox (badness 10000) in paragraph at lines 10438--10441
-\TU/LinuxLibertineO(0)/m/it/12 freed-from-face-to-face-encounters-are-communica
-ting-in-
- []
-
-[479] [480] [481] [482] [483] [484] [485]
-Underfull \hbox (badness 3312) in paragraph at lines 10675--10678
-\TU/LinuxLibertineO(0)/m/n/12 bro). <\TU/LinuxLibertineO(0)/m/it/12 http://www.
-news-ci-en-tist.com/blogs/shortsharps-ci-
- []
-
-[486] [487] [488]
-Underfull \hbox (badness 1616) in paragraph at lines 10745--10749
-\TU/LinuxLibertineO(0)/m/it/12 da-tion for He-alth-care Im-pro-ve-ment\TU/Linux
-LibertineO(0)/m/n/12 . <\TU/LinuxLibertineO(0)/m/it/12 http://www.cfhi-
+[312] [313] [314]
+Underfull \hbox (badness 1365) in paragraph at lines 12254--12257
+[]\TU/LinuxLibertineO(0)/m/n/9 Ki-vers-tein, Ju-lian, e Mark Mil-ler. 2015. ``T
+he Em-bo-died Brain: Towards a Ra-di-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10745--10749
-\TU/LinuxLibertineO(0)/m/it/12 fcass.ca/Se-ar-ch-Re-sults-News/12-06-04/a078cec
-a-a41-4d14-
+Underfull \hbox (badness 1132) in paragraph at lines 12254--12257
+\TU/LinuxLibertineO(0)/m/n/9 cal Em-bo-died Cog-ni-tive Neu-ros-ci-ence.'' \TU/
+LinuxLibertineO(0)/m/it/9 Fron-ti-ers in Hu-man Neu-ros-ci-ence \TU/LinuxLibert
+ineO(0)/m/n/9 9, art.237.
  []
 
-[489] [490] [491] [492] [493] [494] [495] [496] [497] [498] [499] [500]
-[501] [502] [503] [504]
-Underfull \hbox (badness 2495) in paragraph at lines 11249--11253
-\TU/LinuxLibertineO(0)/m/n/12 ``Pic-tu-ring Neu-ros-ci-ence Re-se-arch Th-rough
- a Hu-man
- []
-
-[505] [506] [507] [508] [509] [510] [511] [512]
-Underfull \hbox (badness 1286) in paragraph at lines 11507--11511
-[]\TU/LinuxLibertineO(0)/m/n/12 Gal-lagher, Shaun. 2010. ``The Body’s Ar-chi-
-tec-ture.''
- []
-
-
-Underfull \hbox (badness 1082) in paragraph at lines 11507--11511
-\TU/LinuxLibertineO(0)/m/n/12 Lec-ture de-li-ve-red at the Third In-ter-na-ti-o
--nal Ara-kawa
- []
-
-
-Underfull \hbox (badness 2961) in paragraph at lines 11507--11511
-\TU/LinuxLibertineO(0)/m/n/12 and Gins: Ar-chi-tec-ture and Phi-lo-sophy Con-fe
--rence.
- []
-
-[513] [514] [515] [516] [517] [518] [519] [520] [521] [522] [523] [524]
-[525] [526]
-Underfull \hbox (badness 1902) in paragraph at lines 11916--11919
-[]\TU/LinuxLibertineO(0)/m/n/12 He-aly, Me-lissa. 2013. ``Eins-tein’s Brain a
- Won-der
- []
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 11916--11919
-\TU/LinuxLibertineO(0)/m/n/12 of Con-nec-ted-ness.'' \TU/LinuxLibertineO(0)/m/i
-t/12 Los An-ge-les Ti-mes \TU/LinuxLibertineO(0)/m/n/12 (10 Ou-tu-bro).
- []
-
-[527] [528] [529]
-Overfull \hbox (47.97348pt too wide) in paragraph at lines 12012--12014
-[]\TU/LinuxLibertineO(0)/m/n/12 Hy-man, John. 2006. ``Art and Neu-ros-ci-ence.'
-' <\TU/LinuxLibertineO(0)/m/it/12 https://bit.ly/2OCaN4n\TU/LinuxLibertineO(0)/
-m/n/12 >. 
- []
-
-[530]
-Overfull \hbox (74.6401pt too wide) in paragraph at lines 12047--12049
-[]\TU/LinuxLibertineO(0)/m/n/12 _____. 2013. ``Trans-for-ming Di-ag-no-sis.'' <
-\TU/LinuxLibertineO(0)/m/it/12 http://www.nimh.nih.gov/about/di-
- []
-
-[531] [532] [533] [534] [535] [536] [537] [538] [539]
-Underfull \hbox (badness 1062) in paragraph at lines 12318--12321
-[]\TU/LinuxLibertineO(0)/m/n/12 Lage, An-drey. 2006. ``Au-tis-tas usam re-mé-d
-ios para
- []
-
-[540] [541] [542] [543]
-Underfull \hbox (badness 2165) in paragraph at lines 12436--12438
-[]\TU/LinuxLibertineO(0)/m/n/12 Levy, Neil. 2007. \TU/LinuxLibertineO(0)/m/it/1
-2 Neu-ro-ethics: Chal-len-ges for the
- []
-
-[544] [545] [546]
-Underfull \hbox (badness 2837) in paragraph at lines 12521--12525
-\TU/LinuxLibertineO(0)/m/n/12 Pe-o-ple on the Au-tism Spec-trum.'' \TU/LinuxLib
-ertineO(0)/m/it/12 Slate \TU/LinuxLibertineO(0)/m/n/12 (22 Maio).
- []
-
-
+[315] [316] [317] [318] [319]
 Underfull \hbox (badness 10000) in paragraph at lines 12521--12525
-\TU/LinuxLibertineO(0)/m/it/12 ner/2013/05/au-tism_spec-trum_di-ag-no-ses_the_d
-sm_5_eli-mi-
+\TU/LinuxLibertineO(0)/m/it/9 ti-cles/_and_sci-ence/me-di-cal_exa-mi-ner/2013/0
+5/au-tism_spec-trum_di-ag-no-ses_the_dsm_5_eli-mi-
  []
 
-[547]
+
 Underfull \hbox (badness 10000) in paragraph at lines 12550--12553
-\TU/LinuxLibertineO(0)/m/it/12 ker.com/on-line/blogs/ele-ments/2013/06/the-prob
-lem-with-
+\TU/LinuxLibertineO(0)/m/n/9 <\TU/LinuxLibertineO(0)/m/it/9 http://www.newyor-k
+er.com/on-line/blogs/ele-ments/2013/06/the-problem-with-theneuroscience-
+ []
+
+[320]
+Overfull \hbox (4.1646pt too wide) in paragraph at lines 12604--12607
+[]\TU/LinuxLibertineO(0)/m/n/9 Max, Da-niel. T. 2007. ``Swann’s Hy-pothe-sis.
+'' \TU/LinuxLibertineO(0)/m/it/9 New York Ti-mes \TU/LinuxLibertineO(0)/m/n/9 (
+4 Nov.). <\TU/LinuxLibertineO(0)/m/it/9 https://nyti.ms/317jvug\TU/LinuxLiberti
+neO(0)/m/n/9 >. 
+ []
+
+[321]
+Overfull \hbox (11.29205pt too wide) in paragraph at lines 12674--12677
+[]\TU/LinuxLibertineO(0)/m/n/9 Me-nand, Louis. 2002. ``What Co-mes Na-tu-rally.
+'' \TU/LinuxLibertineO(0)/m/it/9 The New Yor-ker \TU/LinuxLibertineO(0)/m/n/9 (
+22 Nov.). <\TU/LinuxLibertineO(0)/m/it/9 https://bit.ly/2MrTxJ\TU/LinuxLiber
+tineO(0)/m/n/9 >. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12562--12566
-\TU/LinuxLibertineO(0)/m/it/12 e-lich.de/Sha-red-Docs/Pres-se-mit-tei-lun-gen/U
-K/EN/2015/15-03-
+Overfull \hbox (8.50487pt too wide) in paragraph at lines 12693--12695
+[]\TU/LinuxLibertineO(0)/m/n/9 Meyer-ding, Jane. 1998. ``Thoughts on Fin-ding M
+y-self Dif-fe-ren-tly Brai-ned.'' <\TU/LinuxLibertineO(0)/m/it/9 https://bit.ly
+/1bgjr1o\TU/LinuxLibertineO(0)/m/n/9 > 
  []
 
-[548] [549] [550]
-Overfull \hbox (8.90775pt too wide) in paragraph at lines 12645--12649
-\TU/LinuxLibertineO(0)/m/it/12 ons.org/di-vi-sion39/pu-bli-ca-ti-ons/re-view/20
-11/01/psychodynamic-
+[322] [323] [324] [325] [326] [327] [328] [329] [330] [331] [332]
+Overfull \hbox (3.01765pt too wide) in paragraph at lines 13329--13332
+[]\TU/LinuxLibertineO(0)/m/n/9 _____. 2013. ``Speak, Me-mory.'' \TU/LinuxLibert
+ineO(0)/m/it/9 The New York Re-view of Bo-oks \TU/LinuxLibertineO(0)/m/n/9 (21 
+Fev.). <\TU/LinuxLibertineO(0)/m/it/9 https://bit.ly/1A6KkOE\TU/LinuxLibertineO
+(0)/m/n/9 > 
  []
 
-
-Overfull \hbox (10.35023pt too wide) in paragraph at lines 12660--12662
-\TU/LinuxLibertineO(0)/m/n/12 a Post-ge-no-mic Age.'' \TU/LinuxLibertineO(0)/m/
-it/12 So-ci-o-logy\TU/LinuxLibertineO(0)/m/n/12 . doi:10.1177/0038038513501944.
- 
+[333] [334] [335] [336] [337] [338]
+Overfull \hbox (17.92392pt too wide) in paragraph at lines 13720--13723
+[]\TU/LinuxLibertineO(0)/m/n/9 Tracy, Harry M. 2016. ``The Neuro Fun-ding Rol-l
+e-co-as-ter.'' \TU/LinuxLibertineO(0)/m/it/9 Ce-re-brum \TU/LinuxLibertineO(0)/
+m/n/9 (Jun.). <\TU/LinuxLibertineO(0)/m/it/9 http://www.dana.org/Ce-
  []
 
-[551]
-Overfull \hbox (57.42407pt too wide) in paragraph at lines 12696--12698
-[]\TU/LinuxLibertineO(0)/m/n/12 _____. 2003. ``The Great ‘Why La-bel?’ De-b
-ate.'' <\TU/LinuxLibertineO(0)/m/it/12 https://bit.ly/30ZALkQ\TU/LinuxLibertine
-O(0)/m/n/12 > 
+[339] [340]
+Overfull \hbox (14.53539pt too wide) in paragraph at lines 13840--13843
+[]\TU/LinuxLibertineO(0)/m/n/9 Wal-ton, Alice. 2015. ``7 Ways Me-di-ta-tion Can
+ Ac-tu-ally Change the Brain.'' <\TU/LinuxLibertineO(0)/m/it/9 https://bit.ly/2
+Ox6pUk\TU/LinuxLibertineO(0)/m/n/9 >. 
  []
 
-[552] [553] [554] [555] [556] [557]
-Underfull \hbox (badness 3240) in paragraph at lines 12855--12858
-\TU/LinuxLibertineO(0)/m/n/12 e-ping Your Brain Fit.'' <\TU/LinuxLibertineO(0)/
-m/it/12 http://www.brai-nhq.com/me-
+[341] [342]
+Underfull \hbox (badness 1968) in paragraph at lines 13952--13955
+[]\TU/LinuxLibertineO(0)/m/n/9 Wol-bring, Gre-gor. 2007. ``Neu-ro-di-ver-sity, 
+Neu-ro-e-nhan-ce-ment, Neu-ro-di-se-ase, and
  []
 
-
-Underfull \hbox (badness 1515) in paragraph at lines 12859--12862
-[]\TU/LinuxLibertineO(0)/m/n/12 Ol-son, Gary. 2008. ``We Em-pathize, The-re-for
-e We
- []
-
-
-Underfull \hbox (badness 1286) in paragraph at lines 12859--12862
-\TU/LinuxLibertineO(0)/m/n/12 Are: Toward a Mo-ral Neu-ro-po-li-tics.'' \TU/Lin
-uxLibertineO(0)/m/sc/12 \TU/LinuxLibertineO(0)/m/n/12 et (26 Jul.).
- []
-
-[558] [559] [560] [561] [562]
-Underfull \hbox (badness 2846) in paragraph at lines 13026--13030
-\TU/LinuxLibertineO(0)/m/n/12 ter-view with Ri-chard Powers.'' \TU/LinuxLiberti
-neO(0)/m/it/12 Be-li-e-ver \TU/LinuxLibertineO(0)/m/n/12 (Fe-ve-reiro).
- []
-
-[563] [564] [565]
-Underfull \hbox (badness 1584) in paragraph at lines 13104--13107
-[]\TU/LinuxLibertineO(0)/m/n/12 Ran-dall, Ke-vin. 2015. ``Neu-ro-po-li-tics, Wh
-ere Cam-
- []
-
-[566] [567] [568] [569] [570]
-Overfull \hbox (2.84933pt too wide) in paragraph at lines 13253--13256
-\TU/LinuxLibertineO(0)/m/n/12 ``\TU/LinuxLibertineO(0)/m/sc/12 \TU/Lin
-uxLibertineO(0)/m/n/12 -5 and the Fu-ture of Di-ag-no-sis.'' <\TU/LinuxLibertin
-eO(0)/m/it/12 https://bit.ly/32dZvqQ\TU/LinuxLibertineO(0)/m/n/12 > 
- []
-
-[571]
-Overfull \hbox (41.13757pt too wide) in paragraph at lines 13304--13306
-[]\TU/LinuxLibertineO(0)/m/n/12 Ru-bin, Sue. 2005. ``Ac-cep-tance Ver-sus Cure.
-'' <\TU/LinuxLibertineO(0)/m/it/12 https://cnn.it/2ICJ3Zy\TU/LinuxLibertineO(0)
-/m/n/12 > 
- []
-
-[572] [573] [574]
-Overfull \hbox (39.5007pt too wide) in paragraph at lines 13402--13404
-\TU/LinuxLibertineO(0)/m/n/12 res.'' <\TU/LinuxLibertineO(0)/m/it/12 http://www
-.npr.org/tem-pla-tes/story/story.php?storyId​=5488463\TU/LinuxLibertineO(0)/m
-/n/12 > 
- []
-
-[575] [576] [577] [578] [579] [580] [581] [582]
-Underfull \hbox (badness 3364) in paragraph at lines 13653--13656
-\TU/LinuxLibertineO(0)/m/n/12 and Non-self.'' \TU/LinuxLibertineO(0)/m/it/12 St
-an-ford Ency-clo-pe-dia of Phi-lo-sophy.
- []
-
-[583] [584]
-Underfull \hbox (badness 2608) in paragraph at lines 13720--13723
-\TU/LinuxLibertineO(0)/m/n/12 as-ter.'' \TU/LinuxLibertineO(0)/m/it/12 Ce-re-br
-um \TU/LinuxLibertineO(0)/m/n/12 (Jun.). <\TU/LinuxLibertineO(0)/m/it/12 http:/
-/www.dana.org/Ce-re-
- []
-
-[585] [586] [587] [588] [589]
-Overfull \hbox (58.4399pt too wide) in paragraph at lines 13870--13872
-[]\TU/LinuxLibertineO(0)/m/n/12 Wein-traub, Kit. 2005. ``A Mother’s Pers-pec-
-tive.'' <\TU/LinuxLibertineO(0)/m/it/12 https://bit.ly/2VrtZmO\TU/LinuxLibertin
-eO(0)/m/n/12 > 
- []
-
-[590] [591] [592] [593]
-Overfull \hbox (36.02975pt too wide) in paragraph at lines 14006--14008
-[]\TU/LinuxLibertineO(0)/m/n/12 _____. n.d. ``Sta-te-ment on Neu-ro-a-esthe-tic
-s.'' <\TU/LinuxLibertineO(0)/m/it/12 https://bit.ly/35k6xfR\TU/LinuxLibertineO(
-0)/m/n/12 > 
- []
-
-[594])) [595] (./LIVRO.ind) 
+[343])) [344] (./LIVRO.ind) 
 AED: lastpage setting LastPage
-
-\openout2 = PUBLICIDADE.aux
-(/home/editorial/texmf/tex/PUBLICIDADE.tex
-Underfull \hbox (badness 10000) in paragraph at lines 6--8
-
- []
-
-[596
+[345
 
 
+] [346]
+\tf@toc=\write6
 
-
-] [597] [598] [599]) [600
-
-
-]
-\tf@toc=\write7
-
-\openout7 = LIVRO.toc
- (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux))
+\openout6 = LIVRO.toc
+ (./LIVRO.aux (./INPUTS.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 24569 strings out of 494472
- 100000,794899 words of node,token memory allocated
- 2662 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 89 glue, 1 penalty, 364 attribute, 197 glue_spec, 9
-1 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:2,2:2842,3:207,4:111,5:331,6:3785,7:1213,8:108,9:316,10:26,11:
-563
- 27426 multiletter control sequences out of 65536+600000
- 114 fonts using 22435871 bytes
- 50i,14n,70p,1369b,452s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 24647 strings out of 494483
+ 13555554,794899 words of node,token memory allocated
+ 12207388 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 87 glue, 1 penalty, 2015589 glyph, 46715 attribute,
+ 197 glue_spec, 9343 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:2,2:682,3:189,4:80,5:405,6:664,7:1404,8:138,9:292,10:35,11:659
+
+ 27537 multiletter control sequences out of 65536+600000
+ 110 fonts using 21159527 bytes
+ 50i,14n,69p,1369b,434s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/share/texmf
 -dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist
 /fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/texmf-dist/font
@@ -2371,10 +2069,10 @@ s/opentype/public/libertine/LinLibertine_R.otf></home/editorial/texmf/tex/fonts/
 Formular-Regular.otf></home/editorial/texmf/tex/fonts/Formular-Bold.otf></usr/sh
 are/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (600 pages, 2712967 bytes).
+Output written on LIVRO.pdf (346 pages, 2450646 bytes).
 
-PDF statistics: 1930 PDF objects out of 2073 (max. 8388607)
- 1295 compressed objects within 13 object streams
+PDF statistics: 1136 PDF objects out of 1200 (max. 8388607)
+ 760 compressed objects within 8 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
