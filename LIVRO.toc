@@ -60,7 +60,7 @@
 \contentsline {section}{Partes do corpo e cabeças vivas}{254}
 \contentsline {section}{Transplantes de cérebro: permanecendo o mesmo ou se tornando outra pessoa?}{256}
 \contentsline {section}{Filmes de memória}{263}
-\contentsline {section}{A ``cerebralidade'' do self e da memória}{264}
+\contentsline {section}{A ``cerebralidade'' do \emph {self} e da memória}{264}
 \contentsline {section}{Identidade pessoal e a autenticidade da memória \vspace \medskipamount }{267}
 \contentsline {chapter}{Epílogo}{275}
 \contentsline {chapter}{Bibliografia}{281}
