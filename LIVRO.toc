@@ -44,11 +44,11 @@
 \contentsline {section}{Um desejo de causalidade}{191}
 \contentsline {section}{Mais uma vez, ``exatamente como a diabetes''}{197}
 \contentsline {section}{Neurodiversidade}{204}
-\contentsline {section}{O autismo como um fenômeno biossocial}{205}
+\contentsline {section}{O autismo como fenômeno biossocial}{205}
 \contentsline {section}{Culturas autistas e neurodiversidade}{212}
 \contentsline {section}{Questões identitárias: \emph {ser} autista ou \emph {ter} autismo?}{214}
 \contentsline {section}{Amando e odiando o próprio cérebro}{218}
-\contentsline {section}{Política identitária e a ``revolução da neurociência'' \vspace \medskipamount }{225}
+\contentsline {section}{Política identitária e a ``revolução da neurociência'' \vspace \medskipamount }{226}
 \contentsline {chapter}{4. Cérebros na tela e no papel}{231}
 \contentsline {section}{No papel: neuronarrativas e neurocrítica literária}{233}
 \contentsline {section}{Variedades de ficção neurológica}{237}

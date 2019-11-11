@@ -141,13 +141,15 @@ INPUT /usr/share/texmf-dist/tex/generic/babel-german/ngerman.ldf
 INPUT /usr/share/texmf-dist/tex/generic/babel-german/ngermanb.ldf
 INPUT /usr/share/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-de-1996.tex
 INPUT /usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-de-1996.tex
-INPUT /usr/share/texmf-dist/tex/generic/babel-french/french.ldf
+INPUT /usr/share/texmf-dist/tex/generic/babel-french/frenchb.ldf
+INPUT /usr/share/texmf-dist/tex/generic/babel-french/frenchb.ldf
 INPUT /usr/share/texmf-dist/tex/generic/babel-french/french.ldf
 INPUT /usr/share/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-fr.tex
 INPUT /usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-fr.tex
 INPUT /usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/quote/hyph-quote-fr.tex
 INPUT /usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
 INPUT /usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
+INPUT /usr/share/texmf-dist/tex/latex/euenc/eu2enc.def
 INPUT /usr/share/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-ru.tex
 INPUT /usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-ru.tex
 INPUT /usr/share/texmf-dist/tex/generic/babel-portuges/portuges.ldf
@@ -165,8 +167,6 @@ INPUT /usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT /usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
-INPUT /usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-INPUT /usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT /usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
 INPUT /usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
 INPUT /usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
@@ -184,6 +184,8 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 INPUT /usr/share/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+INPUT /usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 INPUT /usr/share/texmf-dist/tex/latex/base/tuenc.def
@@ -327,6 +329,8 @@ INPUT ./INPUTS.aux
 OUTPUT LIVRO.aux
 INPUT /usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+INPUT /usr/share/texmf-dist/tex/latex/euenc/eu2lmr.fd
+INPUT /usr/share/texmf-dist/tex/latex/euenc/eu2lmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/share/texmf-dist/tex/generic/babel-french/frenchb.lua
